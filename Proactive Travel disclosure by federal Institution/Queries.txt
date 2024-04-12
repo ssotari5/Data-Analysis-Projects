@@ -1,0 +1,144 @@
+1)
+select title, total, salary_rank from(
+	select title,total,
+	dense_rank() over (order by total desc) as "salary_rank"
+	from (
+		select d.title as title, sum(c.total) as total
+		from doc_info d
+		inner join cost c
+		on d.ref_id = c.ref_id
+		group by title
+	) as title_ranking
+) as top_10
+where salary_rank <= 10
+
+2)
+
+with min_max as(
+	select min(total) as min_total, max(total) as max_total from cost
+),
+histogram as (
+	select width_bucket(total,min_total,max_total,5) as bucket, count(*) as total_count 
+	from cost c inner join min_max m
+	on 1=1
+	group by bucket
+	order by bucket
+)
+
+select bucket, 
+floor(((max_total - min_total)/5) * (bucket - 1))as low_value,
+floor(((max_total - min_total)/5) * bucket) as high_value,
+total_count
+from histogram, min_max
+
+
+3)
+select
+	case
+		when extract(month from start_date) = 1 then 'January'
+		when extract(month from start_date) = 2 then 'February'
+		when extract(month from start_date) = 3 then 'March'
+		when extract(month from start_date) = 4 then 'April'
+		when extract(month from start_date) = 5 then 'May'
+		when extract(month from start_date) = 6 then 'June'
+		when extract(month from start_date) = 7 then 'July'
+		when extract(month from start_date) = 8 then 'August'
+		when extract(month from start_date) = 9 then 'September'
+		when extract(month from start_date) = 10 then 'October'
+		when extract(month from start_date) = 11 then 'November'
+		when extract(month from start_date) = 12 then 'December'
+	end as start_month,
+	count(*) as total_count
+from travel_info
+group by start_month
+order by start_month
+
+
+4)
+select coalesce(d.disclosure_group, 'Total') as disclosure_group, 
+sum(total) as total
+from doc_info d
+inner join 
+cost c
+on c.ref_id = d.ref_id
+group by cube (disclosure_group)
+order by disclosure_group
+
+
+5)
+WITH trip_counts AS (
+    SELECT
+        o.org_owner_title,
+        COUNT(ti.info_id) AS trip_count,
+        RANK() OVER (ORDER BY COUNT(ti.info_id) DESC) AS row_num
+    FROM
+        organization o
+    JOIN
+        doc_info di ON o.ref_id = di.ref_id
+    JOIN
+        travel_info ti ON di.ref_id = ti.ref_id
+    GROUP BY
+        o.org_owner_title
+    HAVING
+        COUNT(ti.info_id) > 2
+)
+SELECT
+    org_owner_title,
+    trip_count
+FROM
+    trip_counts
+WHERE
+    row_num <= 10;
+
+
+6)
+with cte as (
+WITH ranked_trips AS (
+    SELECT
+        ti.destination,
+        MIN(ti.start_date) AS first_trip_start_date,
+        MAX(ti.end_date) AS last_trip_end_date,
+        SUM(c.total) AS total_spent,
+        RANK() OVER (ORDER BY SUM(c.total) DESC) AS rank_num
+    FROM
+        travel_info ti
+    JOIN
+        cost c ON ti.ref_id = c.ref_id
+    WHERE
+        c.total > 5000
+        AND ti.start_date >= '2018-01-01'
+    GROUP BY
+        ti.destination
+)
+SELECT
+    destination,
+    first_trip_start_date AS start_date,
+    last_trip_end_date AS end_date,
+    total_spent
+FROM
+    ranked_trips
+WHERE
+    rank_num <= 10
+	
+	)
+	
+select destination,(end_date-start_date) as trip_duration,total_spent
+from cte
+order by trip_duration
+
+
+
+7)
+SELECT title, COUNT(title) AS no_of_trip
+FROM doc_info
+GROUP BY title
+HAVING count(title) > 20;
+
+
+8)
+
+
+9)
+
+
+10)

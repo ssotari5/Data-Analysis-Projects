@@ -1,0 +1,361 @@
+﻿City_ID,Year,Month,Time_Leaving_For_Work,Age_Group,Main_Mode_Of_Commuting,Commuting_Duration,Avg_Commuting_Count,Transit_Ridership,Location,Road_Surface_Condition,Accident_Time,Num_Of_Vehicle,Num_Of_Injuries,Num_Of_Minor_Injuries,Num_Of_Major_Injuries,Wheelchair_Accessible,Bikes_Allowed,Traffic_Disruption,Avg_Delay_Time,Incident_Type
+3,2021,1,Between 6 am and 6:59 am,15 to 24 years,Car and  truck or van,15 to 29 minutes,1745,"19,89,500", Barlow Trail and 61 Avenue SE ,01   Dry,23:19,1,,,,,,,5,Fire
+3,2021,2,Between 6 am and 6:59 am,15 to 24 years,Car and  truck or van,30 to 59 minutes,1080,"19,14,000", Eastbound 16 Avenue after 19 Street NE ,01   Dry,03:10,1,,,,,,,15,Fire
+3,2021,3,Between 6 am and 6:59 am,15 to 24 years,Public transit,15 to 29 minutes,65,"22,92,700", Westbound Country Hills Boulevard approaching 14 Street NW ,02   Wet,00:00,1,,,,,,,20,Fire
+3,2021,4,Between 6 am and 6:59 am,25 to 34 years,Car and  truck or van,15 to 29 minutes,5680,"20,46,000", Southbound 14 Street at North Haven Drive NW ,02   Wet,03:49,1,,,,,,,8,Medical
+3,2021,5,Between 6 am and 6:59 am,55 to 64 years,Public transit,15 to 29 minutes,105,"19,88,000", 2 Street and 18 Avenue SW ,01   Dry,06:22,1,,,,,,,10,Fire
+3,2021,6,Between 6 am and 6:59 am,55 to 64 years,Bicycle,30 to 59 minutes,25,"24,80,000", Eastbound Glenmore Trail east of Blackfoot Trail SE ,01   Dry,20:30,1,,,,,,,12,Motor Vehicle Accident
+3,2021,7,Between 8 am and 8:59 am,15 to 24 years,Car and  truck or van,60 minutes and over,55,"26,94,600", Northbound Deerfoot Trail approaching Memorial Drive SE ,06   Ice,10:45,1,1,,,,,,18,Fire
+3,2021,8,Between 8 am and 8:59 am,15 to 24 years,Public transit,15 to 29 minutes,105,"27,59,100", Northbound Macleod Trail approaching Lake Fraser Gate SE ,01   Dry,18:32,2,,,,,,,30,Fire
+3,2021,9,Between 8 am and 8:59 am,45 to 54 years,Car and  truck or van,30 to 59 minutes,2495,"34,67,100", Northbound Macleod Trail approaching Lake Fraser Gate SE ,01   Dry,00:00,1,,,,,,,25,Medical
+3,2021,10,Between 8 am and 8:59 am,45 to 54 years,Public transit,30 to 59 minutes,130,"33,12,000", Southbound Deerfoot Trail approaching Glenmore Trail SE ,02   Wet,11:34,1,,,,,,,22,Medical
+3,2021,11,Between 8 am and 8:59 am,45 to 54 years,Public transit,60 minutes and over,75,"34,13,300", Southbound Deerfoot Trail approaching Glenmore Trail SE ,02   Wet,11:47,2,,,,,,,6,Medical
+3,2021,12,Between 8 am and 8:59 am,45 to 54 years,Bicycle,15 to 29 minutes,65,"29,91,400", 32 Avenue and 52 Street NE ,02   Wet,11:44,2,,,,,,,13,Medical
+3,2022,1,Between 8 am and 8:59 am,55 to 64 years,Public transit,60 minutes and over,80,"27,97,700", Northbound 52 Street at 61 Avenue SE ,02   Wet,13:30,2,,,,,,,16,Fire
+3,2022,2,Between 8 am and 8:59 am,55 to 64 years,Bicycle,15 to 29 minutes,30,"28,83,600", Eastbound Glenmore Trail and Stoney Trail SE ,01   Dry,00:00,1,,,,,,,9,Medical
+3,2022,3,Between 8 am and 8:59 am,55 to 64 years,Bicycle,30 to 59 minutes,40,"41,99,500", Westbound Glenmore Trail and Deerfoot Trail SE ,09   Spilled liquid,00:00,1,,,,,,,11,Medical
+3,2022,4,Between 9 am and 11:59 am,15 to 24 years,Car and  truck or van,15 to 29 minutes,2235,"40,04,300", Eastbound Glenmore Trail and Stoney Trail SE ,02   Wet,13:50,1,1,,,,,,14,Fire
+3,2022,5,Between 9 am and 11:59 am,15 to 24 years,Public transit,60 minutes and over,215,"44,48,400", Southbound 9 Street and 8 Avenue SW ,02   Wet,14:42,2,,,,,,,17,Medical
+3,2022,6,Between 9 am and 11:59 am,15 to 24 years,Bicycle,15 to 29 minutes,35,"44,82,600", Northbound 14 Street and 90 Avenue SW ,09   Spilled liquid,15:56,2,2,2,,,,,28,Medical
+3,2022,7,Between 9 am and 11:59 am,25 to 34 years,Car and  truck or van,15 to 29 minutes,3115,"47,56,900", Northbound Macleod Trail and Lake Fraser Drive SE ,06   Ice,16:51,2,,,,,,,23,Fire
+3,2022,8,Between 12 pm and 4:59 am,15 to 24 years,Public transit,60 minutes and over,485,"45,13,200", Northbound Macleod Trail at Lake Fraser Drive SE ,09   Spilled liquid,19:02,2,,,,,,,21,Medical
+3,2022,9,Between 12 pm and 4:59 am,15 to 24 years,Bicycle,15 to 29 minutes,80,"60,15,000", Symons Valley Py and 37 Street NW ,09   Spilled liquid,19:30,1,,,,,,,7,Medical
+3,2022,10,Between 12 pm and 4:59 am,25 to 34 years,Car and  truck or van,15 to 29 minutes,3780,"62,91,400", Midlake Boulevard and Bannister Road SE ,06   Ice,19:38,1,,,,,,,12,Medical
+3,2022,11,Between 12 pm and 4:59 am,25 to 34 years,Public transit,60 minutes and over,275,"62,91,900", Northbound 53 Street and Crowchild Trail NW ,02   Wet,19:59,2,,,,,,,18,Medical
+3,2022,12,Between 12 pm and 4:59 am,25 to 34 years,Bicycle,15 to 29 minutes,60,"62,25,400", Eastbound McKnight Boulevard and 19 Street NE ,06   Ice,20:02,2,1,1,,,,,10,Medical
+3,2023,1,Between 12 pm and 4:59 am,25 to 34 years,Bicycle,30 to 59 minutes,20,"69,56,200", Northbound Metis Trail and 88 Avenue NE ,04   Slush,08:25,3,1,,,,,,9,Medical
+3,2023,2,Between 12 pm and 4:59 am,35 to 44 years,Car and  truck or van,15 to 29 minutes,4100,"66,31,200", Southbound Deerfoot Trail after Country Hills Blvd NE ,04   Slush,08:36,2,,,,,,,13,Medical
+3,2023,3,Between 12 pm and 4:59 am,35 to 44 years,Public transit,60 minutes and over,210,"74,72,700", Airport Trail and Metis Trail NE ,04   Slush,08:07,2,,,,,,,16,Medical
+3,2023,4,Between 12 pm and 4:59 am,35 to 44 years,Bicycle,15 to 29 minutes,20,"70,05,300", Southbound Strathcona Boulevard and Strathcona Drive SW ,01   Dry,09:14,2,,,,,,,25,Fire
+3,2023,5,Between 12 pm and 4:59 am,35 to 44 years,Bicycle,30 to 59 minutes,15,"75,01,500", 5 Street and Glenmore Trail SW ,09   Spilled liquid,09:54,2,,,,,,,20,Motor Vehicle Accident
+3,2023,6,Between 12 pm and 4:59 am,45 to 54 years,Car and  truck or van,60 minutes and over,275,"72,37,900", Westbound Glenmore Trail approaching Crowchild Trail SW ,01   Dry,09:56,2,,,,,,,20,Medical
+3,2023,7,Between 12 pm and 4:59 am,45 to 54 years,Public transit,15 to 29 minutes,85,"70,07,800", Northbound Deerfoot Trail approaching Peigan Trail SE ,06   Ice,10:06,1,,,,,,,6,Medical
+3,2023,8,Between 12 pm and 4:59 am,45 to 54 years,Bicycle,15 to 29 minutes,20,"69,52,400", Southbound Crowchild Trail approaching Glenmore Trail SW ,02   Wet,10:09,3,2,1,,,,,14,Medical
+3,2023,9,Between 12 pm and 4:59 am,55 to 64 years,Car and  truck or van,60 minutes and over,235,"87,56,200", Westbound Glenmore Trail approaching Crowchild Trail SW ,01   Dry,06:50,2,,,,,,,17,Medical
+3,2023,10,Between 12 pm and 4:59 am,55 to 64 years,Public transit,60 minutes and over,130,"85,73,700", Westbound 16 Avenue and 19 Street NW ,01   Dry,10:00,1,,,,,,,8,Medical
+3,2023,11,Between 12 pm and 4:59 am,55 to 64 years,Bicycle,15 to 29 minutes,20,"83,67,100", Deerfoot Trail and 24 Street SE ,09   Spilled liquid,15:00,2,,,,,,,10,Motor Vehicle Accident
+3,2023,12,Between 5 am and 5:59 am,15 to 24 years,Car and  truck or van,45 to 59 minutes,55,"93,67,100", Deerfoot Trail and 24 Street SE ,04   Slush,12:00,2,,,,,,,15,Medical
+5,2021,1,Between 6 am and 6:59 am,15 to 24 years,Car and  truck or van,15 to 29 minutes,2265,"78,79,478",Stony Plain Rd/149 St Reduced to 1 Lane Each W,01   Dry,15:19,2,,,,1,1,Road Construction,8,Medical
+5,2021,2,Between 6 am and 6:59 am,15 to 24 years,Car and  truck or van,30 to 59 minutes,1355,"77,73,662",87 Av Reduced to 1 Lane Each Way,01   Dry,16:08,2,,,,1,1,Weather Conditions,15,Medical
+5,2021,3,Between 6 am and 6:59 am,15 to 24 years,Car and  truck or van,60 minutes and over,175,"77,87,312",156 St/Meadowlark Rd Reduced to 1 Lane Each Way,06   Ice,13:40,2,,,,1,1,Medical Emergency,6,Medical
+5,2021,4,Between 6 am and 6:59 am,25 to 34 years,Public transit,60 minutes and over,105,"79,45,074",99 Av Closure,02   Wet,00:00,1,,,,1,1,Vehicle Collision,12,Medical
+5,2021,5,Between 6 am and 6:59 am,25 to 34 years,Bicycle,15 to 29 minutes,30,"59,57,866",87 Ave West LRT Construction,09   Spilled liquid,00:00,1,,,,1,1,Police Activity,9,Medical
+5,2021,6,Between 6 am and 6:59 am,25 to 34 years,Bicycle,30 to 59 minutes,25,"60,20,062",34 Av Lane Reduction,01   Dry,17:22,1,1,1,,1,1,Mechanical Issue,20,Medical
+5,2021,7,Between 6 am and 6:59 am,45 to 54 years,Car and  truck or van,60 minutes and over,600,"54,51,139",Stony Plain Road Closure,04   Slush,17:03,2,,,,0,1,Parade,18,Medical
+5,2021,8,Between 6 am and 6:59 am,45 to 54 years,Public transit,60 minutes and over,155,"52,24,082",167 St SW bridge lane closure,02   Wet,17:43,3,,,,1,1,Public Demonstration,7,Medical
+5,2021,9,Between 6 am and 6:59 am,45 to 54 years,Bicycle,15 to 29 minutes,30,"79,94,130",106 St Lane Closure,02   Wet,17:30,1,,,,1,1,Power Outage,11,Medical
+5,2021,10,Between 8 am and 8:59 am,15 to 24 years,Bicycle,30 to 59 minutes,10,"83,84,847",Single Lane Closures,02   Wet,04:30,1,,,,0,1,Animal on Road,14,Medical
+5,2021,11,Between 8 am and 8:59 am,25 to 34 years,Public transit,60 minutes and over,80,"84,05,438",Parking Lane and Sidewalk Closed on NS Summit Dr,02   Wet,00:00,1,,,,1,1,Fire Emergency,25,Motor Vehicle Accident
+5,2021,12,Between 8 am and 8:59 am,25 to 34 years,Bicycle,15 to 29 minutes,50,"78,92,451","104 Av, 110 St - 107 St & 109 St: 2 lanes each way",01   Dry,18:26,2,,,,,1,Flooding,10,Medical
+5,2022,1,Between 8 am and 8:59 am,25 to 34 years,Bicycle,30 to 59 minutes,10,"80,93,532",111 St NB Lane Closure,01   Dry,16:33,2,,,,1,1,Debris on Road,7,Medical
+5,2022,2,Between 8 am and 8:59 am,45 to 54 years,Car and  truck or van,60 minutes and over,280,"77,94,958",106 St Reduced to 1 Lane Per Direction,01   Dry,17:31,1,1,,1,1,1,Bridge Closure,16,Medical
+5,2022,3,Between 8 am and 8:59 am,45 to 54 years,Public transit,15 to 29 minutes,25,"46,36,999",100A Av Closed West of 156 St,01   Dry,00:03,2,1,1,,1,1,Bomb Threat,22,Medical
+5,2022,4,Between 8 am and 8:59 am,45 to 54 years,Public transit,60 minutes and over,30,"24,53,037",36A Ave Total Closure,02   Wet,18:19,2,,,,1,1,Traffic Accident,13,Medical
+5,2022,5,Between 8 am and 8:59 am,45 to 54 years,Bicycle,15 to 29 minutes,35,"19,84,313",106st Reduced to 1 Lane Per Direction,01   Dry,19:32,2,,,,1,1,Road Repairs,40,Medical
+5,2022,6,Between 8 am and 8:59 am,55 to 64 years,Car and  truck or van,15 to 29 minutes,2885,"24,85,008",Intersection Left Turn Bans,09   Spilled liquid,00:00,1,,,,1,1,Sporting Event,30,Medical
+5,2022,7,Between 8 am and 8:59 am,55 to 64 years,Bicycle,30 to 59 minutes,15,"28,11,472",104 Av Lane Reductions,01   Dry,12:30,1,,,,1,1,Utility Work,35,Medical
+5,2022,8,Between 9 am and 11:59 am,25 to 34 years,Car and  truck or van,30 to 59 minutes,1200,"28,29,859",YHT/127 St Lane Reductions,01   Dry,21:41,1,,,,1,1,Fallen Tree,11,Medical
+5,2022,9,Between 9 am and 11:59 am,35 to 44 years,Public transit,15 to 29 minutes,65,"39,88,943",North Sidewalk Closure,09   Spilled liquid,06:02,2,,,,1,1,Gas Leak,19,Fire
+5,2022,10,Between 9 am and 11:59 am,55 to 64 years,Public transit,60 minutes and over,45,"41,63,496",106st reduced to one lane SB,09   Spilled liquid,06:30,2,,,,1,0,Traffic Signal Outage,16,Fire
+5,2022,11,Between 9 am and 11:59 am,55 to 64 years,Bicycle,15 to 29 minutes,20,"39,07,567","116 St, 100 Ave - Jasper Ave: One lane each way.",05   Packed snow,06:47,1,,,,1,0,Hazardous Materials,8,Medical
+5,2022,12,Between 12 pm and 4:59 am,15 to 24 years,Car and  truck or van,15 to 29 minutes,3370,"31,26,378",Intersection Closure,05   Packed snow,06:50,2,,,,1,0,Sinkhole,6,Medical
+5,2023,1,Between 12 pm and 4:59 am,15 to 24 years,Bicycle,30 to 59 minutes,15,"83,12,057",Truck Ban NB 178 St Bridge over Whitemud Dr,01   Dry,16:00,2,,,,1,0,Train Delay,50,Medical
+5,2023,2,Between 12 pm and 4:59 am,25 to 34 years,Public transit,60 minutes and over,255,"78,18,343",116 Street Lane Reductions,01   Dry,16:37,3,,,,1,1,Bus Breakdown,15,Medical
+5,2023,3,Between 12 pm and 4:59 am,25 to 34 years,Bicycle,15 to 29 minutes,55,"65,14,984",Power Aerial Install,01   Dry,16:30,2,,,,1,1,Construction Debris,9,Medical
+5,2023,4,Between 12 pm and 4:59 am,35 to 44 years,Car and  truck or van,60 minutes and over,640,"41,48,086",106 st reduced to one lane per direction,01   Dry,16:42,2,,,,2,1,Traffic Light Failure,7,Medical
+5,2023,5,Between 12 pm and 4:59 am,35 to 44 years,Public transit,15 to 29 minutes,140,"33,07,850",45ave Travel Delays,01   Dry,17:00,2,,,,1,1,Street Festival,12,Medical
+5,2023,6,Between 12 pm and 4:59 am,35 to 44 years,Bicycle,60 minutes and over,10,"39,43,708",Single lane closure,09   Spilled liquid,00:00,1,,,,1,1,Vandalism,14,Medical
+5,2023,7,Between 12 pm and 4:59 am,45 to 54 years,Public transit,60 minutes and over,120,"41,72,224",Pavement marking weave,02   Wet,17:52,2,,,,1,1,Special Event,20,Motor Vehicle Accident
+5,2023,8,Between 12 pm and 4:59 am,45 to 54 years,Bicycle,15 to 29 minutes,20,"41,25,934",Right curb lane closure northbound,01   Dry,18:04,2,2,1,,1,1,Road Closure,26,Medical
+5,2023,9,Between 12 pm and 4:59 am,45 to 54 years,Bicycle,30 to 59 minutes,15,"59,87,403",Terwillegar Drive Stage 1B Project,04   Slush,16:40,1,,,,1,1,Traffic Signal Malfunction,45,Medical
+5,2023,10,Between 12 pm and 4:59 am,55 to 64 years,Car and  truck or van,30 to 59 minutes,1295,"62,57,734",97 ST Total Closure,04   Slush,17:30,2,,,,1,1,Fallen Sign,10,Medical
+5,2023,11,Between 12 pm and 4:59 am,55 to 64 years,Public transit,60 minutes and over,60,"59,98,115",Yellowhead Trail Speed Reduction,01   Dry,19:10,2,,,,1,1,Suspicious Activity,21,Medical
+5,2023,12,Between 5 am and 5:59 am,15 to 24 years,Public transit,60 minutes and over,25,"50,14,710",100 ST Southbound Closure,01   Dry,19:22,1,,,,1,1,Medical Emergency,15,Medical
+6,2021,1,Between 6 am and 6:59 am,15 to 24 years,Public transit,15 to 29 minutes,25,,Springfield,02   Wet,09:47,1,1,,1,,,Road Maintenance,8,
+6,2021,2,Between 6 am and 6:59 am,25 to 34 years,Car and  truck or van,15 to 29 minutes,2070,,Glendale,02   Wet,10:23,2,1,1,,,,Storm Damage,15,
+6,2021,3,Between 6 am and 6:59 am,35 to 44 years,Public transit,60 minutes and over,50,,Parkland,04   Slush,20:30,2,1,,,,,Medical Emergency,6,
+6,2021,4,Between 6 am and 6:59 am,35 to 44 years,Bicycle,15 to 29 minutes,10,,Beaver Bank,01   Dry,08:20,2,,,,,,Vehicle Collision,12,
+6,2021,5,Between 6 am and 6:59 am,45 to 54 years,Car and  truck or van,15 to 29 minutes,1800,,Bedford Commons,01   Dry,21:46,1,1,1,,,,Police Activity,9,
+6,2021,6,Between 6 am and 6:59 am,45 to 54 years,Public transit,60 minutes and over,55,,Airport - Fall River Regi,09   Spilled liquid,00:00,1,,,,,,Mechanical Issue,20,
+6,2021,7,Between 6 am and 6:59 am,45 to 54 years,Bicycle,15 to 29 minutes,15,,Glendale,02   Wet,10:41,3,2,1,,,,Parade,18,
+6,2021,8,Between 8 am and 8:59 am,25 to 34 years,Car and  truck or van,15 to 29 minutes,1230,,Larry Uteck,02   Wet,12:00,2,1,,,,,Public Demonstration,7,
+6,2021,9,Between 8 am and 8:59 am,25 to 34 years,Public transit,15 to 29 minutes,110,,Porters Lake Regional Exp,02   Wet,12:42,2,,,,,,Power Outage,11,
+6,2021,10,Between 8 am and 8:59 am,45 to 54 years,Car and  truck or van,60 minutes and over,80,,Millwood,02   Wet,15:37,1,1,1,,,,Animal on Road,14,
+6,2021,11,Between 8 am and 8:59 am,45 to 54 years,Public transit,15 to 29 minutes,15,,Dartmouth - Dalhousie,01   Dry,13:05,2,,,,,,Fire Emergency,25,
+6,2021,12,Between 9 am and 11:59 am,25 to 34 years,Car and  truck or van,60 minutes and over,20,,Hemlock Ravine,01   Dry,13:35,1,,,,,,Flooding,10,
+6,2022,1,Between 9 am and 11:59 am,25 to 34 years,Public transit,15 to 29 minutes,80,,Flamingo,04   Slush,06:45,2,,,,,,Debris on Road,7,
+6,2022,2,Between 9 am and 11:59 am,25 to 34 years,Bicycle,15 to 29 minutes,40,,Sackville-Dartmouth,06   Ice,06:57,2,,,,,,Bridge Closure,16,
+6,2022,3,Between 9 am and 11:59 am,45 to 54 years,Car and  truck or van,30 to 59 minutes,175,,Chebucto,06   Ice,07:00,2,,,,,,Bomb Threat,22,
+6,2022,4,Between 9 am and 11:59 am,45 to 54 years,Car and  truck or van,60 minutes and over,20,,Greystone,09   Spilled liquid,07:09,1,,,,,,Traffic Accident,13,
+6,2022,5,Between 9 am and 11:59 am,45 to 54 years,Public transit,15 to 29 minutes,10,,Universities,09   Spilled liquid,06:45,2,,,,,,Road Construction,40,
+6,2022,6,Between 9 am and 11:59 am,45 to 54 years,Public transit,30 to 59 minutes,15,,Bedford Commons,09   Spilled liquid,07:15,2,,,,,,Sporting Event,30,
+6,2022,7,Between 9 am and 11:59 am,55 to 64 years,Car and  truck or van,15 to 29 minutes,435,,Windmill,09   Spilled liquid,07:30,2,1,,,,,Utility Work,35,
+6,2022,8,Between 12 pm and 4:59 am,25 to 34 years,Public transit,60 minutes and over,70,,Herring Cove,09   Spilled liquid,06:40,2,,,,,,Fallen Tree,11,
+6,2022,9,Between 12 pm and 4:59 am,25 to 34 years,Bicycle,15 to 29 minutes,10,,Dartmouth - Dalhousie,01   Dry,07:49,2,,,,,,Gas Leak,19,
+6,2022,10,Between 12 pm and 4:59 am,35 to 44 years,Car and  truck or van,15 to 29 minutes,555,,Larry Uteck,09   Spilled liquid,07:50,1,,,,,,Traffic Signal Outage,16,
+6,2022,11,Between 12 pm and 4:59 am,35 to 44 years,Car and  truck or van,30 to 59 minutes,290,,Notting Park,01   Dry,16:25,2,,,,,,Hazardous Materials,8,
+6,2022,12,Between 12 pm and 4:59 am,35 to 44 years,Car and  truck or van,60 minutes and over,40,,Dalhousie,01   Dry,08:35,2,,,,,,Street Festival,35,
+6,2023,1,Between 12 pm and 4:59 am,35 to 44 years,Public transit,15 to 29 minutes,30,,Purcells Cove,06   Ice,19:24,2,,,,,,Train Delay,50,
+6,2023,2,Between 12 pm and 4:59 am,35 to 44 years,Public transit,30 to 59 minutes,45,,Hemlock Ravine,01   Dry,18:10,2,,,,,,Bus Breakdown,15,
+6,2023,3,Between 12 pm and 4:59 am,35 to 44 years,Public transit,60 minutes and over,35,,Montebello,01   Dry,14:30,2,,,,,,Construction Debris,9,
+6,2023,4,Between 12 pm and 4:59 am,45 to 54 years,Car and  truck or van,15 to 29 minutes,700,,Flamingo Express,06   Ice,04:34,1,,,,,,Traffic Light Failure,7,
+6,2023,5,Between 12 pm and 4:59 am,45 to 54 years,Car and  truck or van,30 to 59 minutes,255,,Clayton Park Express,02   Wet,08:58,3,,,,,,Street Festival,12,
+6,2023,6,Between 12 pm and 4:59 am,45 to 54 years,Car and  truck or van,60 minutes and over,75,,Springfield Express,09   Spilled liquid,09:12,1,,,,,,Vandalism,14,
+6,2023,7,Between 12 pm and 4:59 am,45 to 54 years,Public transit,15 to 29 minutes,25,,Millwood Express,01   Dry,17:20,2,,,,,,Special Event,20,
+6,2023,8,Between 12 pm and 4:59 am,45 to 54 years,Public transit,30 to 59 minutes,40,,West Bedford Express,02   Wet,11:00,2,,,,,,Road Closure,26,
+6,2023,9,Between 12 pm and 4:59 am,55 to 64 years,Public transit,15 to 29 minutes,35,,Basinview Express,09   Spilled liquid,11:40,2,,,,,,Traffic Signal Malfunction,45,
+6,2023,10,Between 12 pm and 4:59 am,55 to 64 years,Public transit,30 to 59 minutes,30,,Fairview,04   Slush,12:51,2,,,,,,Fallen Sign,10,
+6,2023,11,Between 12 pm and 4:59 am,55 to 64 years,Public transit,60 minutes and over,30,,Governors Brook,01   Dry,13:33,2,,,,,,Suspicious Activity,21,
+6,2023,12,Between 5 am and 5:59 am,25 to 34 years,Public transit,60 minutes and over,30,,Cowie Hill Express,02   Wet,07:40,1,,,,,,Sinkhole,26,
+8,2021,1,Between 6 am and 6:59 am,15 to 24 years,Car and  truck or van,15 to 29 minutes,1200,,"22 ABC Street, Kitchener, ON, A1B C2D",02   Wet,09:15,2,,,,,,Vehicle Accident,8,Medical
+8,2021,2,Between 6 am and 6:59 am,15 to 24 years,Car and  truck or van,30 to 59 minutes,435,,"143 XYZ Avenue, Kitchener, ON, E3F G4H",01   Dry,14:48,4,,,,,,Medical Emergency,15,Medical
+8,2021,3,Between 6 am and 6:59 am,25 to 34 years,Public transit,60 minutes and over,50,,"88 Example Road, Kitchener, ON, I5J K6L",02   Wet,20:10,2,,,,,,Weather Conditions,6,Medical
+8,2021,4,Between 6 am and 6:59 am,25 to 34 years,Bicycle,15 to 29 minutes,30,,"201 Random Street, Kitchener, ON, M7N O8P",01   Dry,19:21,1,2,1,,,,Road Repairs,12,Medical
+8,2021,5,Between 6 am and 6:59 am,25 to 34 years,Bicycle,60 minutes and over,20,,"55 Test Drive, Kitchener, ON, Q9R S0T",02   Wet,15:05,2,1,1,,,,Police Activity,9,Motor Vehicle Accident
+8,2021,6,Between 6 am and 6:59 am,35 to 44 years,Car and  truck or van,15 to 29 minutes,2225,,"10 Sample Boulevard, Kitchener, ON, U1V W2X",01   Dry,09:06,2,1,,,,,Mechanical Issue,20,Medical
+8,2021,7,Between 6 am and 6:59 am,35 to 44 years,Car and  truck or van,30 to 59 minutes,1065,,"79 Mock Lane, Kitchener, ON, Y3Z A4B",01   Dry,10:00,2,,,,,,Festival,18,Medical
+8,2021,8,Between 6 am and 6:59 am,35 to 44 years,Car and  truck or van,60 minutes and over,390,,"35 Fictional Court, Kitchener, ON, C5D E6F",01   Dry,20:17,2,,,,,,Collision,7,Medical
+8,2021,9,Between 6 am and 6:59 am,35 to 44 years,Public transit,15 to 29 minutes,30,,"200 Imaginary Avenue, Kitchener, ON, G7H I8J",06   Ice,21:47,1,,,,,,Power Outage,11,Medical
+8,2021,10,Between 6 am and 6:59 am,45 to 54 years,Car and  truck or van,60 minutes and over,380,,"42 Madeup Street, Kitchener, ON, K9L M0N",01   Dry,21:29,1,,,,,,Pedestrian Incident,14,Medical
+8,2021,11,Between 6 am and 6:59 am,45 to 54 years,Public transit,15 to 29 minutes,20,,"562 Waterton Crt, Waterloo, ON",01   Dry,17:15,1,,,,,,Fire Emergency,25,Medical
+8,2021,12,Between 6 am and 6:59 am,55 to 64 years,Bicycle,15 to 29 minutes,10,,"61 N Westshore Blvd, Kitchener, ON",02   Wet,15:15,2,,,,,,Flooded Road,10,Emergency Transfer
+8,2022,1,Between 8 am and 8:59 am,25 to 34 years,Car and  truck or van,15 to 29 minutes,1515,,"12384 Ninth Line, Stouffville, ON",01   Dry,10:00,3,,,,,,Fallen Branch,7,Medical
+8,2022,2,Between 8 am and 8:59 am,35 to 44 years,Public transit,60 minutes and over,10,,"733 Lake Erie Dr, Kingsville, ON",09   Spilled liquid,11:31,1,,,,,,Construction Work,16,Medical
+8,2022,3,Between 8 am and 8:59 am,45 to 54 years,Car and  truck or van,15 to 29 minutes,1395,,"698 N Allen Rd, Montreal, QC",09   Spilled liquid,11:41,2,,,,,,Protest,22,Medical
+8,2022,4,Between 9 am and 11:59 am,25 to 34 years,Public transit,60 minutes and over,40,,562 Waterton Crt Waterloo ONN2V 2K5,06   Ice,11:48,1,,,,,,Vehicle Breakdown,13,Medical
+8,2022,5,Between 9 am and 11:59 am,25 to 34 years,Bicycle,30 to 59 minutes,10,,61 N Westshore Blvd Kitchener ONN2A 1S3,09   Spilled liquid,10:53,2,,,,,,Traffic Signal Failure,40,Medical
+8,2022,6,Between 9 am and 11:59 am,35 to 44 years,Public transit,60 minutes and over,35,,12384 Ninth Line Stouffville ONL4A 1C1,01   Dry,13:06,2,,,,,,Sporting Event,30,Medical
+8,2022,7,Between 9 am and 11:59 am,45 to 54 years,Car and  truck or van,15 to 29 minutes,730,,733 Lake Erie Dr Kingsville ONN9Y 2P7,09   Spilled liquid,13:13,2,,,,,,Utility Maintenance,35,Medical
+8,2022,8,Between 9 am and 11:59 am,45 to 54 years,Car and  truck or van,30 to 59 minutes,255,,698 N Allen Rd Montreal QCH3J 2Z1,09   Spilled liquid,13:00,2,,,,,,Hazardous Spill,11,Medical
+8,2022,9,Between 9 am and 11:59 am,45 to 54 years,Car and  truck or van,60 minutes and over,130,,6 Old York Rd Gatineau QCJ9H 1A1,09   Spilled liquid,13:38,2,1,1,,,,Bridge Closure,19,Medical
+8,2022,10,Between 9 am and 11:59 am,45 to 54 years,Public transit,15 to 29 minutes,15,,1000 Finch Avenue West Toronto ONM3J 2V5,01   Dry,08:00,2,,,,,,Traffic Jam,16,Medical
+8,2022,11,Between 9 am and 11:59 am,45 to 54 years,Public transit,30 to 59 minutes,15,,150 Maple Grove Road Cambridge ONN3H 4R7,09   Spilled liquid,13:30,2,,,,,,Street Closure,8,Medical
+8,2022,12,Between 9 am and 11:59 am,55 to 64 years,Car and  truck or van,15 to 29 minutes,580,,77 Queen St N Kitchener ONN2H 2H1,09   Spilled liquid,14:46,1,,,,,,Fallen Object,6,Medical
+8,2023,1,Between 12 pm and 4:59 am,15 to 24 years,Public transit,60 minutes and over,145,,200 University Ave W Waterloo ONN2L 3G1,09   Spilled liquid,08:47,2,,,,,,Train Delay,50,Medical
+8,2023,2,Between 12 pm and 4:59 am,15 to 24 years,Bicycle,15 to 29 minutes,25,,22 Frederick St Kitchener ONN2H 6M6,06   Ice,09:04,3,2,,,,,Bus Malfunction,15,Medical
+8,2023,3,Between 12 pm and 4:59 am,25 to 34 years,Car and  truck or van,15 to 29 minutes,1810,,125 Pioneer Dr Kitchener ONN2P 1L8,02   Wet,09:11,1,1,1,,,,Construction Debris,9,Medical
+8,2023,4,Between 12 pm and 4:59 am,25 to 34 years,Public transit,60 minutes and over,115,,370 Highland Rd W Kitchener ONN2M 5J9,04   Slush,09:31,2,,,,,,Collision,7,Medical
+8,2023,5,Between 12 pm and 4:59 am,25 to 34 years,Bicycle,15 to 29 minutes,25,,235 Ira Needles Blvd Kitchener ONN2N 0B2,01   Dry,09:34,2,,,,,,Street Parade,12,Medical
+8,2023,6,Between 12 pm and 4:59 am,35 to 44 years,Car and  truck or van,60 minutes and over,345,,655 Fairway Rd S Kitchener ONN2C 1X4,04   Slush,09:43,2,,,,,,Vandalism,14,Medical
+8,2023,7,Between 12 pm and 4:59 am,35 to 44 years,Public transit,60 minutes and over,55,,428 Gage Ave Unit A Kitchener ONN2M 5C9,06   Ice,10:11,1,,,,,,Celebration Event,20,Medical
+8,2023,8,Between 12 pm and 4:59 am,45 to 54 years,Car and  truck or van,15 to 29 minutes,1375,,700 Strasburg Rd W Kitchener ONN2E 2M2,01   Dry,10:22,2,1,,,,,Road Blocked,26,Medical
+8,2023,9,Between 12 pm and 4:59 am,45 to 54 years,Public transit,60 minutes and over,45,,235 King St E Kitchener ONN2G 2L1,04   Slush,09:30,2,,,,,,Traffic Congestion,45,Medical
+8,2023,10,Between 12 pm and 4:59 am,55 to 64 years,Car and  truck or van,15 to 29 minutes,1285,,100 Park St Kitchener ONN2G 1M6,09   Spilled liquid,11:05,2,,,,,,Fallen Sign,10,Medical
+8,2023,11,Between 12 pm and 4:59 am,55 to 64 years,Public transit,60 minutes and over,35,,379 Gage Ave Unit A Kitchener ONN2M 5E1,09   Spilled liquid,11:15,2,,,,,,Suspicious Package,21,Medical
+8,2023,12,Between 5 am and 5:59 am,45 to 54 years,Public transit,15 to 29 minutes,10,,500 Fairway Rd S Kitchener ONN2C 1X3,05   Packed snow,00:00,1,,,,,,Traffic Congestion,34,Medical
+2,2021,1,Between 6 am and 6:59 am,15 to 24 years,Public transit,15 to 29 minutes,415,,3025 Rue Sherbrooke O Montreal QC H3Z 1A7,02   Wet,16:17,2,,,,1,1,Traffic Congestion,5,Medical
+2,2021,2,Between 6 am and 6:59 am,15 to 24 years,Public transit,30 to 59 minutes,595,,1000 Rue de la Gauchetière O Montreal QC H3B 4W5,04   Slush,08:20,2,,,,1,1,Road Maintenance,15,Medical
+2,2021,3,Between 6 am and 6:59 am,15 to 24 years,Public transit,60 minutes and over,630,,300 Boulevard René-Lévesque E Montreal QC H2X 3Y2,02   Wet,16:58,2,,,,1,1,Vehicle Collision,20,Medical
+2,2021,4,Between 6 am and 6:59 am,25 to 34 years,Car and  truck or van,15 to 29 minutes,10005,,300 Chemin de la Côte-Sainte-Catherine Montreal QC H2V 2A7,02   Wet,17:44,1,,,,1,1,Medical Emergency,8,Medical
+2,2021,5,Between 6 am and 6:59 am,25 to 34 years,Public transit,15 to 29 minutes,565,,1260 Rue Crescent Montreal QC H3G 2B1,02   Wet,18:20,2,,,,1,1,Road Debris,10,Medical
+2,2021,6,Between 6 am and 6:59 am,25 to 34 years,Subway or elevated rail,15 to 29 minutes,235,,3800 Chemin de la Côte-des-Neiges Montreal QC H3H 1V1,02   Wet,18:34,1,,,,1,1,Traffic Signal Issue,12,Medical
+2,2021,7,Between 6 am and 6:59 am,25 to 34 years,Subway or elevated rail,30 to 59 minutes,420,,475 Avenue des Pins O Montreal QC H2W 1S4,01   Dry,19:17,1,,,,1,1,Vehicle Breakdown,18,Medical
+2,2021,8,Between 6 am and 6:59 am,25 to 34 years,Subway or elevated rail,60 minutes and over,430,,2090 Rue Mackay Montreal QC H3G 2J1,01   Dry,19:16,2,,,,1,1,Severe Weather,30,Medical
+2,2021,9,Between 6 am and 6:59 am,25 to 34 years,Bicycle,15 to 29 minutes,245,,2090 Rue Peel Montreal QC H3A 1W6,02   Wet,18:30,2,,,,1,2,Construction,25,Medical
+2,2021,10,Between 6 am and 6:59 am,35 to 44 years,Car and  truck or van,15 to 29 minutes,10865,,3600 Rue University Montreal QC H3A 2B3,01   Dry,19:54,2,,,,1,1,Hazardous Material,22,Medical
+2,2021,11,Between 6 am and 6:59 am,35 to 44 years,Car and  truck or van,30 to 59 minutes,9245,,1260 Rue Stanley Montreal QC H3B 4W9,02   Wet,20:17,2,,,,1,1,Traffic Congestion,6,Medical
+2,2021,12,Between 6 am and 6:59 am,45 to 54 years,Subway or elevated rail,30 to 59 minutes,255,,800 Boulevard De Maisonneuve E Montreal QC H2L 4M9,02   Wet,21:00,3,,,,1,1,Road Maintenance,13,Medical
+2,2022,1,Between 6 am and 6:59 am,45 to 54 years,Subway or elevated rail,60 minutes and over,415,,475 Rue Sherbrooke E Montreal QC H2X 1Y2,01   Dry,04:19,2,,,,1,1,Vehicle Collision,16,Medical
+2,2022,2,Between 8 am and 8:59 am,15 to 24 years,Public transit,60 minutes and over,505,,2090 Rue de Bleury Montreal QC H3A 2J5,01   Dry,16:38,3,,,,1,2,Medical Emergency,9,Medical
+2,2022,3,Between 8 am and 8:59 am,25 to 34 years,Public transit,15 to 29 minutes,1335,,1260 Rue Drummond Montreal QC H3G 1V7,01   Dry,16:30,2,,,,1,1,Road Debris,11,Medical
+2,2022,4,Between 8 am and 8:59 am,25 to 34 years,Subway or elevated rail,15 to 29 minutes,925,,1000 Rue Saint-Antoine O Montreal QC H3C 3R7,01   Dry,17:50,2,,,,1,2,Traffic Signal Issue,14,Medical
+2,2022,5,Between 8 am and 8:59 am,25 to 34 years,Subway or elevated rail,30 to 59 minutes,1690,,380 Saint-Antoine St W Montreal QC H2Y 3X7,01   Dry,17:50,2,,,,1,1,Vehicle Breakdown,17,Medical
+2,2022,6,Between 8 am and 8:59 am,45 to 54 years,Car and  truck or van,30 to 59 minutes,6110,,800 Boulevard De Maisonneuve E Montreal QC H2L 4M9,01   Dry,18:28,1,1,,1,1,1,Severe Weather,28,Medical
+2,2022,7,Between 8 am and 8:59 am,45 to 54 years,Subway or elevated rail,15 to 29 minutes,335,,1260 Rue University Montreal QC H3B 3B9,01   Dry,19:35,2,,,,1,2,Construction,23,Medical
+2,2022,8,Between 8 am and 8:59 am,55 to 64 years,Subway or elevated rail,30 to 59 minutes,410,,1000 Rue de la Commune E Montreal QC H2L 2E7,01   Dry,06:46,2,,,,1,1,Hazardous Material,21,Medical
+2,2022,9,Between 8 am and 8:59 am,55 to 64 years,Subway or elevated rail,60 minutes and over,155,,475 Avenue des Pins O Montreal QC H2W 1S4,01   Dry,07:42,2,1,,,1,1,Traffic Congestion,7,Medical
+2,2022,10,Between 9 am and 11:59 am,15 to 24 years,Public transit,15 to 29 minutes,1015,,2090 Rue Peel Montreal QC H3A 1W6,06   Ice,09:16,3,,,,1,1,Road Maintenance,12,Medical
+2,2022,11,Between 9 am and 11:59 am,15 to 24 years,Public transit,30 to 59 minutes,1200,,3600 Rue University Montreal QC H3A 2B3,09   Spilled liquid,19:15,2,,,,1,1,Vehicle Collision,18,Medical
+2,2022,12,Between 9 am and 11:59 am,35 to 44 years,Subway or elevated rail,15 to 29 minutes,205,,475 Rue Sherbrooke E Montreal QC H2X 1Y2,01   Dry,12:46,2,,,,1,1,Medical Emergency,10,Motor Vehicle Accident
+2,2023,1,Between 12 pm and 4:59 am,25 to 34 years,Car and  truck or van,15 to 29 minutes,8365,,2090 Rue de Bleury Montreal QC H3A 2J5,01   Dry,11:50,2,,,,1,2,Road Debris,9,Medical
+2,2023,2,Between 12 pm and 4:59 am,25 to 34 years,Car and  truck or van,30 to 59 minutes,6040,,1260 Rue Drummond Montreal QC H3G 1V7,02   Wet,16:50,2,,,,1,2,Traffic Signal Issue,13,Medical
+2,2023,3,Between 12 pm and 4:59 am,25 to 34 years,Subway or elevated rail,15 to 29 minutes,350,,1000 Rue Sherbrooke O Montreal QC H3A 1G5,04   Slush,00:00,1,,,,1,1,Vehicle Breakdown,16,Medical
+2,2023,4,Between 12 pm and 4:59 am,25 to 34 years,Bicycle,60 minutes and over,30,,3800 Chemin de la Côte-des-Neiges Montreal QC H3H 1V1,09   Spilled liquid,15:05,2,,,,1,2,Severe Weather,25,Medical
+2,2023,5,Between 12 pm and 4:59 am,35 to 44 years,Public transit,15 to 29 minutes,595,,2090 Rue Mackay Montreal QC H3G 2J1,01   Dry,18:23,2,,,,2,1,Construction,20,Medical
+2,2023,6,Between 12 pm and 4:59 am,35 to 44 years,Subway or elevated rail,15 to 29 minutes,205,,3025 Rue Sherbrooke O Montreal QC H3Z 1A7,04   Slush,16:19,1,,,,2,2,Hazardous Material,20,Medical
+2,2023,7,Between 12 pm and 4:59 am,45 to 54 years,Public transit,60 minutes and over,1000,,789 Rue Saint-Urbain Montreal QC H2Z 1J7,09   Spilled liquid,19:00,2,,,,2,1,Traffic Congestion,6,Medical
+2,2023,8,Between 12 pm and 4:59 am,45 to 54 years,Subway or elevated rail,15 to 29 minutes,165,,450 Boulevard De Maisonneuve O Montreal QC H3A 1L4,02   Wet,14:30,2,,,,1,2,Road Maintenance,14,Medical
+2,2023,9,Between 12 pm and 4:59 am,55 to 64 years,Car and  truck or van,60 minutes and over,1145,,1000 Rue de la Gauchetière O Montreal QC H3B 4W5,09   Spilled liquid,20:35,2,,,,1,2,Vehicle Collision,17,Medical
+2,2023,10,Between 12 pm and 4:59 am,55 to 64 years,Public transit,15 to 29 minutes,380,,1260 Rue University Montreal QC H3B 3B9,02   Wet,23:56,2,2,,,1,1,Medical Emergency,8,Medical
+2,2023,11,Between 12 pm and 4:59 am,55 to 64 years,Subway or elevated rail,60 minutes and over,220,,2090 Rue Peel Montreal QC H3A 1W6,06   Ice,07:45,2,,,,1,2,Road Debris,10,Motor Vehicle Accident
+2,2023,12,Between 5 am and 5:59 am,65 to 74 years,Public transit,60 minutes and over,140,,1500 Avenue Atwater Montreal QC H3Z 1X5,04   Slush,08:15,2,,,,,,Traffic Signal Issue,15,Medical
+4,2021,1,Between 6 am and 6:59 am,15 to 24 years,Car and  truck or van,15 to 29 minutes,1940,"92,70,000",LUMBERMAN WAY - ORLEANS BLVD (0004359),02   Wet,01:00,1,,,,,, Vehicle Collision          ,5,Medical
+4,2021,2,Between 6 am and 6:59 am,15 to 24 years,Car and  truck or van,30 to 59 minutes,1195,"87,00,000",BAYSHORE DR - WOODRIDGE CRES N (0001209),04   Slush,17:00,2,,,,,, Road Maintenance           ,8,Medical
+4,2021,3,Between 6 am and 6:59 am,25 to 34 years,Bicycle,30 to 59 minutes,30,"53,20,000",CARTIER ST btwn MCLEOD ST & MCLEOD ST (3ZA80E),02   Wet,00:00,1,,,,,, Vehicle Collision          ,15,Medical
+4,2021,4,Between 6 am and 6:59 am,35 to 44 years,Car and  truck or van,15 to 29 minutes,3925,"12,00,000",BOOTH ST - SOMERSET ST (0002216),02   Wet,15:45,2,,,,,, Medical Emergency          ,10,Medical
+4,2021,5,Between 6 am and 6:59 am,35 to 44 years,Car and  truck or van,30 to 59 minutes,3180,"10,00,000",HAZELDEAN RD - HUNTMAR DR IBER RD (0000075),02   Wet,17:52,2,,,,,, Road Debris                ,6,Medical
+4,2021,6,Between 6 am and 6:59 am,35 to 44 years,Car and  truck or van,60 minutes and over,525,"10,70,000",RODEO DR btwn PALMADEO DR & SAN MATEO DR (37ZO7S),06   Ice,18:00,1,,,,,, Traffic Signal Issue       ,7,Medical
+4,2021,7,Between 6 am and 6:59 am,35 to 44 years,Public transit,15 to 29 minutes,90,"15,50,000",CASTLEFRANK RD - TERRY FOX DR (0011757),02   Wet,17:15,2,,,,,, Vehicle Breakdown          ,12,Medical
+4,2021,8,Between 6 am and 6:59 am,55 to 64 years,Car and  truck or van,30 to 59 minutes,2520,"18,40,000",ALBERT ST - LYON ST (0002208),02   Wet,18:00,2,,,,,, Severe Weather             ,20,Medical
+4,2021,9,Between 6 am and 6:59 am,55 to 64 years,Car and  truck or van,60 minutes and over,425,"26,00,000",MARCH RD btwn MORGAN'S GRANT WAY & TERRY FOX DR (3ZA3CF),02   Wet,19:54,2,,,,,, Construction               ,18,Emergency Transfer
+4,2021,10,Between 6 am and 6:59 am,55 to 64 years,Public transit,15 to 29 minutes,145,"25,10,000",WALKLEY RD btwn 152 E OF HEATHERINGTON RD & HEATHERINGTON RD (3ZA2LVA),06   Ice,20:46,1,,,,,, Hazardous Material         ,25,Medical
+4,2021,11,Between 6 am and 6:59 am,55 to 64 years,Public transit,30 to 59 minutes,210,"28,10,000",JEANNE D'ARC BLVD btwn VINETTE CRES & WILLOW AVE (3ZA7K5),06   Ice,02:10,1,,,,,, Traffic Congestion         ,6,Medical
+4,2021,12,Between 6 am and 6:59 am,55 to 64 years,Public transit,60 minutes and over,145,"26,20,000",HERZBERG RD - MARCH RD (0003170),06   Ice,04:04,1,1,,,,, Road Maintenance           ,9,Medical
+4,2022,1,Between 8 am and 8:59 am,15 to 24 years,Car and  truck or van,15 to 29 minutes,1430,"17,10,000",HUNT CLUB RD - BRIDLE PATH DR DAZE ST (0008214),01   Dry,21:25,2,,,,,, Vehicle Collision          ,16,Medical
+4,2022,2,Between 8 am and 8:59 am,15 to 24 years,Car and  truck or van,30 to 59 minutes,595,"21,90,000",MARCH RD btwn HOWIE RD & JACOB'S GT (3ZA2Q9),02   Wet,08:20,1,,,,,, Medical Emergency          ,11,Medical
+4,2022,3,Between 8 am and 8:59 am,15 to 24 years,Car and  truck or van,60 minutes and over,60,"26,40,000",HAWTHORNE RD btwn DAVIDSON RD & LEITRIM RD (3ZBPIY),01   Dry,18:00,2,,,,,, Road Debris                ,8,Medical
+4,2022,4,Between 8 am and 8:59 am,35 to 44 years,Public transit,60 minutes and over,130,"21,60,000",BLAIR RD - OGILVIE RD (0004120),02   Wet,08:43,2,,,,,, Traffic Signal Issue       ,10,Medical
+4,2022,5,Between 8 am and 8:59 am,45 to 54 years,Car and  truck or van,15 to 29 minutes,3375,"17,00,000",STITTSVILLE MAIN ST - HAZELDEAN RD (0000050),01   Dry,11:25,2,,,,,, Vehicle Breakdown          ,13,Motor Vehicle Accident
+4,2022,6,Between 8 am and 8:59 am,45 to 54 years,Car and  truck or van,30 to 59 minutes,1675,"17,10,000",WOODROFFE AVE btwn MIRAMICHI ST & TECUMSEH ST (3ZA3GS),01   Dry,12:17,3,,,,,, Severe Weather             ,22,Medical
+4,2022,7,Between 8 am and 8:59 am,45 to 54 years,Car and  truck or van,60 minutes and over,215,"20,10,000",WILLWOOD CRES btwn MARAVISTA DR & WEYBRIDGE DR (3ZBOAY),02   Wet,12:36,1,1,,,,, Construction               ,20,Medical
+4,2022,8,Between 8 am and 8:59 am,45 to 54 years,Public transit,15 to 29 minutes,65,"20,10,000",BANK ST btwn ANOKA ST & WILDWOOD AVE (3ZA366),01   Dry,12:41,2,,,,,, Hazardous Material         ,28,Emergency Transfer
+4,2022,9,Between 8 am and 8:59 am,45 to 54 years,Public transit,30 to 59 minutes,150,"40,30,000",BANNER RD btwn PARKMOUNT CRES & PARKMOUNT CRES (3ZAB4V),01   Dry,12:30,2,,,,,, Traffic Congestion         ,7,Medical
+4,2022,10,Between 9 am and 11:59 am,15 to 24 years,Bicycle,30 to 59 minutes,15,"39,10,000",INDUSTRIAL AVE - RUSSELL RD (0007732),01   Dry,14:39,2,,,,,, Road Maintenance           ,10,Airport Standby
+4,2022,11,Between 9 am and 11:59 am,25 to 34 years,Car and  truck or van,15 to 29 minutes,1935,"38,30,000",HWY 417 INNES IC112R57 - INNES RD (0012298),01   Dry,15:13,2,2,,,,, Vehicle Collision          ,17,Medical
+4,2022,12,Between 9 am and 11:59 am,25 to 34 years,Car and  truck or van,30 to 59 minutes,635,"37,50,000",ASSALY RD - RICHMOND RD (0002682),05   Packed snow,15:57,3,,,,,, Medical Emergency          ,12,Medical
+4,2023,1,Between 9 am and 11:59 am,35 to 44 years,Car and  truck or van,60 minutes and over,150,"30,40,000",NANTES ST btwn BRIANNA WAY & PORTOBELLO BLVD (3ZACET),01   Dry,00:00,1,,,,,, Road Debris                ,9,Medical
+4,2023,2,Between 9 am and 11:59 am,35 to 44 years,Public transit,15 to 29 minutes,70,"33,90,000",EAGLESON RD - PERTH ST RICHMOND RD (0009376),02   Wet,08:19,2,,,,,, Traffic Signal Issue       ,11,Motor Vehicle Accident
+4,2023,3,Between 9 am and 11:59 am,35 to 44 years,Public transit,30 to 59 minutes,70,"43,80,000",INNES RD - ORCHARDVIEW AVE ESPRIT DR (0012279),04   Slush,12:30,2,,,,,, Vehicle Breakdown          ,14,Medical
+4,2023,4,Between 9 am and 11:59 am,55 to 64 years,Public transit,30 to 59 minutes,45,"38,30,000",OPUS ST btwn BRIGITTA ST & ROMINA ST (6OD79Y),09   Spilled liquid,09:10,2,,,,,, Severe Weather             ,24,Medical
+4,2023,5,Between 9 am and 11:59 am,55 to 64 years,Public transit,60 minutes and over,20,"36,00,000",BANK ST - DAVIDSON RD LESTER RD (0008797),01   Dry,13:30,2,,,,,, Construction               ,22,Medical
+4,2023,6,Between 12 pm and 4:59 am,15 to 24 years,Car and  truck or van,15 to 29 minutes,2770,"37,80,000",HALTON TERR MAXWELL BRIDGE RD - MARCH RD (0011852),01   Dry,14:01,1,,,,,, Hazardous Material         ,30,Medical
+4,2023,7,Between 12 pm and 4:59 am,15 to 24 years,Car and  truck or van,30 to 59 minutes,635,"32,60,000",BRUCE ST - DOW ST (0001796),01   Dry,14:12,2,,,,,, Medical Emergency          ,12,Medical
+4,2023,8,Between 12 pm and 4:59 am,15 to 24 years,Car and  truck or van,60 minutes and over,120,"28,00,000",CARLING AVE - ROSEVIEW AVE (0002644),01   Dry,15:00,2,,,,,, Road Debris                ,8,Medical
+4,2023,9,Between 12 pm and 4:59 am,15 to 24 years,Public transit,15 to 29 minutes,540,"58,50,000",CRESTWAY DR - LEIKIN DR (0009767),01   Dry,15:02,2,1,1,,,, Traffic Signal Issue       ,11,Medical
+4,2023,10,Between 12 pm and 4:59 am,15 to 24 years,Public transit,30 to 59 minutes,490,"55,60,000",STALWART CRES E - WHITE ALDER AVE (0014154),06   Ice,09:40,2,,,,,, Vehicle Breakdown          ,14,Medical
+4,2023,11,Between 12 pm and 4:59 am,55 to 64 years,Public transit,60 minutes and over,140,"55,70,000",JEANNE D'ARC BLVD - ORLEANS BLVD N (0003792),01   Dry,15:50,2,,,,,, Vehicle Breakdown          ,15,Motor Vehicle Accident
+4,2023,12,Between 5 am and 5:59 am,15 to 24 years,Public transit,60 minutes and over,45,"51,20,000",MAITLAND AVE GLENMOUNT AVE - ERINDALE DR (0002724),04   Slush,08:45,1,,,,,, Severe Weather             ,26,Medical
+10,2021,1,Between 6 am and 6:59 am,15 to 24 years,Car and  truck or van,30 to 59 minutes,95,"5,67,876"," 103 E Main St #59, Regina, SK, S4S 5Y2",01   Dry,06:57,1,,,,,, Traffic Congestion         ,6,
+10,2021,2,Between 6 am and 6:59 am,15 to 24 years,Car and  truck or van,60 minutes and over,10,"5,45,605"," 2100 Dewdney Ave, Regina, SK, S4R 1H3",02   Wet,00:00,1,,,,,, Road Maintenance           ,9,
+10,2021,3,Between 6 am and 6:59 am,15 to 24 years,Public transit,15 to 29 minutes,10,"4,82,448"," 1801 Hamilton St, Regina, SK, S4P 4B4",06   Ice,08:29,1,,,,,, Vehicle Collision          ,16,
+10,2021,4,Between 6 am and 6:59 am,15 to 24 years,Public transit,30 to 59 minutes,10,"4,77,883"," 2400 Saskatchewan Dr, Regina, SK, S4P 4H8",01   Dry,08:55,2,2,1,,,, Medical Emergency          ,11,
+10,2021,5,Between 6 am and 6:59 am,25 to 34 years,Car and  truck or van,15 to 29 minutes,975,"6,00,348"," 1230 Broad St, Regina, SK, S4R 1Y3",01   Dry,09:36,2,,,,,, Road Debris                ,7,
+10,2021,6,Between 6 am and 6:59 am,25 to 34 years,Car and  truck or van,30 to 59 minutes,255,"6,15,727"," 3355 Quance St, Regina, SK, S4V 3A7",02   Wet,10:55,2,,,,,, Traffic Signal Issue       ,8,
+10,2021,7,Between 8 am and 8:59 am,15 to 24 years,Car and  truck or van,15 to 29 minutes,520,"6,20,956"," 425 Victoria Ave, Regina, SK, S4N 0P6",01   Dry,12:06,2,,,,,, Vehicle Breakdown          ,13,
+10,2021,8,Between 8 am and 8:59 am,15 to 24 years,Car and  truck or van,30 to 59 minutes,30,"5,18,164"," 100 Albert St, Regina, SK",01   Dry,00:00,1,,,,,, Severe Weather             ,22,
+10,2021,9,Between 8 am and 8:59 am,35 to 44 years,Car and  truck or van,60 minutes and over,25,"5,67,807"," 2101 Quance St, Regina, SK, S4V 3A7",01   Dry,00:00,1,,,,,, Construction               ,20,
+10,2021,10,Between 8 am and 8:59 am,35 to 44 years,Public transit,15 to 29 minutes,10,"5,10,058"," 1700 Elphinstone St, Regina, SK, S4T 1K1",02   Wet,17:15,2,,,,,, Hazardous Material         ,28,
+10,2021,11,Between 8 am and 8:59 am,35 to 44 years,Public transit,30 to 59 minutes,25,"6,18,702"," 1800 11th Ave, Regina, SK, S4P 0H8",02   Wet,00:00,1,,,,,, Traffic Congestion         ,7,
+10,2021,12,Between 8 am and 8:59 am,45 to 54 years,Car and  truck or van,15 to 29 minutes,725,"5,69,826"," 2401 Saskatchewan Dr, Regina, SK, S4P 3B9",04   Slush,14:20,2,,,,,, Road Maintenance           ,10,
+10,2022,1,Between 8 am and 8:59 am,45 to 54 years,Car and  truck or van,30 to 59 minutes,85,"6,02,527"," 1251 Albert St, Regina, SK, S4R 2R2",09   Spilled liquid,19:50,2,,,,,, Vehicle Collision          ,17,
+10,2022,2,Between 8 am and 8:59 am,45 to 54 years,Car and  truck or van,60 minutes and over,30,"5,63,267"," 2202 Broad St, Regina, SK",04   Slush,20:20,2,,,,,, Medical Emergency          ,12,
+10,2022,3,Between 8 am and 8:59 am,45 to 54 years,Public transit,15 to 29 minutes,10,"4,94,408"," 2545 E Victoria Ave, Regina, SK, S4N 6M5",04   Slush,15:00,2,,,,,, Road Debris                ,8,
+10,2022,4,Between 8 am and 8:59 am,45 to 54 years,Public transit,30 to 59 minutes,15,"4,86,836"," 123 Regina St, Regina, Saskatchewan, S4R 0T9",09   Spilled liquid,17:20,2,,,,,, Traffic Signal Issue       ,11,
+10,2022,5,Between 8 am and 8:59 am,55 to 64 years,Car and  truck or van,15 to 29 minutes,690,"6,23,509"," 456 Saskatchewan Dr, Regina, Saskatchewan, S4P 0B7",09   Spilled liquid,21:30,1,,,,,, Vehicle Breakdown          ,14,
+10,2022,6,Between 8 am and 8:59 am,55 to 64 years,Car and  truck or van,30 to 59 minutes,120,"6,79,563"," 789 Albert St, Regina, Saskatchewan, S4R 2P6",09   Spilled liquid,19:06,2,,,,,, Severe Weather             ,24,
+10,2022,7,Between 9 am and 11:59 am,15 to 24 years,Public transit,15 to 29 minutes,50,"6,47,099"," 321 Victoria Ave, Regina, Saskatchewan",01   Dry,22:20,1,,,,,, Construction               ,22,
+10,2022,8,Between 9 am and 11:59 am,15 to 24 years,Public transit,30 to 59 minutes,20,"5,18,392"," 654 Broad St, Regina, Saskatchewan, S4R 1X7",09   Spilled liquid,23:15,2,,,,,, Hazardous Material         ,30,
+10,2022,9,Between 9 am and 11:59 am,15 to 24 years,Public transit,60 minutes and over,25,"6,04,370"," 987 Dewdney Ave, Regina, Saskatchewan, S4N 4G8",01   Dry,00:04,2,,,,,, Traffic Congestion         ,8,
+10,2022,10,Between 9 am and 11:59 am,25 to 34 years,Car and  truck or van,15 to 29 minutes,420,"5,19,180"," 135 7th Ave, Regina, Saskatchewan, S4N 5A5",09   Spilled liquid,06:45,2,,,,,, Road Maintenance           ,11,
+10,2022,11,Between 9 am and 11:59 am,55 to 64 years,Car and  truck or van,60 minutes and over,10,"6,47,399"," 246 13th Ave, Regina, Saskatchewan, S4P 0V2",02   Wet,07:54,2,,,,,, Vehicle Collision          ,18,
+10,2022,12,Between 9 am and 11:59 am,55 to 64 years,Public transit,15 to 29 minutes,10,"5,94,500"," 369 Elphinstone St, Regina, Saskatchewan, S4T 3Y3",01   Dry,17:35,2,,,,,, Medical Emergency          ,13,
+10,2023,1,Between 12 pm and 4:59 am,15 to 24 years,Car and  truck or van,15 to 29 minutes,850,"6,23,292"," 147 McCarthy Blvd, Regina, Saskatchewan, S4R 3S2",01   Dry,21:18,2,2,2,,,, Road Debris                ,9,
+10,2023,2,Between 12 pm and 4:59 am,35 to 44 years,Car and  truck or van,30 to 59 minutes,140,"5,64,205"," 258 Pasqua St, Regina, Saskatchewan, S4T 4M4",06   Ice,08:00,2,,,,,, Traffic Signal Issue       ,12,
+10,2023,3,Between 12 pm and 4:59 am,35 to 44 years,Car and  truck or van,60 minutes and over,65,"5,55,706"," 369 Rae St, Regina, Saskatchewan, S4T 5B2",01   Dry,15:10,2,,,,,, Vehicle Breakdown          ,15,
+10,2023,4,Between 12 pm and 4:59 am,35 to 44 years,Public transit,30 to 59 minutes,30,"5,40,278"," 159 McIntyre St, Regina, Saskatchewan, S4R 2L6",01   Dry,15:00,2,,,,,, Severe Weather             ,26,
+10,2023,5,Between 12 pm and 4:59 am,35 to 44 years,Public transit,60 minutes and over,15,"6,96,664"," 753 Athol St, Regina, Saskatchewan, S4T 3B3",01   Dry,16:20,2,,,,,, Construction               ,24,
+10,2023,6,Between 12 pm and 4:59 am,45 to 54 years,Car and  truck or van,15 to 29 minutes,575,"7,45,857"," 951 Retallack St, Regina, Saskatchewan, S4T 2E9",01   Dry,15:00,2,,,,,, Hazardous Material         ,32,
+10,2023,7,Between 12 pm and 4:59 am,45 to 54 years,Car and  truck or van,30 to 59 minutes,110,"7,00,300","16. 2388 Elphinstone St, Regina, Saskatchewan, S4T 3N3",01   Dry,00:00,1,,,,,, Vehicle Breakdown          ,34,
+10,2023,8,Between 12 pm and 4:59 am,45 to 54 years,Car and  truck or van,60 minutes and over,30,"5,76,299","2499 McCarthy Blvd, Regina, Saskatchewan, S4R 3C3",01   Dry,15:30,2,,,,,, Severe Weather             ,24,
+10,2023,9,Between 12 pm and 4:59 am,55 to 64 years,Car and  truck or van,15 to 29 minutes,370,"6,54,491","2610 Rae St, Regina, Saskatchewan, S4T 2H5",06   Ice,16:42,2,,,,,, Construction               ,12,
+10,2023,10,Between 12 pm and 4:59 am,55 to 64 years,Car and  truck or van,30 to 59 minutes,85,"4,79,465","2721 McIntyre St, Regina, Saskatchewan, S4S 2R3",01   Dry,01:47,1,,,,,, Hazardous Material         ,45,
+10,2023,11,Between 12 pm and 4:59 am,55 to 64 years,Car and  truck or van,60 minutes and over,20,"7,45,857","2832 Athol St, Regina, Saskatchewan, S4T 3E5",01   Dry,03:43,1,,,,,, Traffic Congestion         ,8,
+10,2023,12,Between 5 am and 5:59 am,45 to 54 years,Public transit,15 to 29 minutes,10,"5,64,205","3387 Victoria Ave, Regina, Saskatchewan, S4N 0P5",02   Wet,12:15,2,2,,,,, Vehicle Breakdown          ,25,
+1,2021,1,Between 6 am and 6:59 am,15 to 24 years,Car and  truck or van,15 to 29 minutes,3795,"1,08,95,000",YONGE AND STEELES,02   Wet,19:02,1,1,1,,1,1,Emergency Services,4,Medical
+1,2021,2,Between 6 am and 6:59 am,15 to 24 years,Car and  truck or van,30 to 59 minutes,3400,"2,17,92,000",CANNIFF AND STRACHAN,01   Dry,20:41,2,,,,1,1,Mechanical,10,Medical
+1,2021,3,Between 6 am and 6:59 am,15 to 24 years,Car and  truck or van,60 minutes and over,1150,"3,74,57,000",WILSON GARAGE,01   Dry,21:30,2,,,,1,1,Mechanical,24,Medical
+1,2021,4,Between 6 am and 6:59 am,15 to 24 years,Public transit,15 to 29 minutes,280,"4,84,95,000",YONGE AND STEELES,01   Dry,07:20,1,,,,1,1,Emergency Services,15,Medical
+1,2021,5,Between 6 am and 6:59 am,15 to 24 years,Subway or elevated rail,60 minutes and over,150,"5,99,47,000",JANE STATION,02   Wet,02:27,3,1,1,,1,1,Vision,30,Medical
+1,2021,6,Between 6 am and 6:59 am,15 to 24 years,Bicycle,15 to 29 minutes,60,"7,65,46,000",PRINCESS GATE AND NEWF,02   Wet,05:33,2,2,2,,1,1,Security,11,Medical
+1,2021,7,Between 6 am and 6:59 am,15 to 24 years,Bicycle,30 to 59 minutes,30,"9,21,56,000",BLOOR AND ISLINGTON,02   Wet,07:57,2,,,,1,1,Vision,12,Medical
+1,2021,8,Between 6 am and 6:59 am,25 to 34 years,Car and  truck or van,15 to 29 minutes,9680,"10,88,63,000",DUNDAS AND KIPLING,01   Dry,07:13,2,,,,1,1,Security,11,Medical
+1,2021,9,Between 6 am and 6:59 am,25 to 34 years,Subway or elevated rail,60 minutes and over,645,"13,24,50,000",MALVERN DIVISION,02   Wet,08:16,1,,,,1,1,Operations - Operator,20,Medical
+1,2021,10,Between 6 am and 6:59 am,35 to 44 years,Car and  truck or van,15 to 29 minutes,9920,"15,29,01,000",PRINCESS BLVD AND ENER,02   Wet,08:52,2,2,,,1,1,Investigation,313,Medical
+1,2021,11,Between 6 am and 6:59 am,35 to 44 years,Car and  truck or van,30 to 59 minutes,10250,"17,45,47,000",YONGE AND STEELES,02   Wet,09:03,2,,,,1,1,Mechanical,10,Medical
+1,2021,12,Between 6 am and 6:59 am,35 to 44 years,Car and  truck or van,60 minutes and over,3960,"19,78,41,000",SHEPPARD AND MCCOWAN,01   Dry,09:44,2,,,,1,1,Mechanical,20,Medical
+1,2022,1,Between 6 am and 6:59 am,35 to 44 years,Public transit,15 to 29 minutes,425,"1,45,65,000",MALVERN DIVISION,09   Spilled liquid,21:00,1,,,,1,1,Operations - Operator,24,Medical
+1,2022,2,Between 6 am and 6:59 am,35 to 44 years,Public transit,30 to 59 minutes,855,"3,35,02,000",KIPLING STATION,01   Dry,09:57,2,,,,1,2,Mechanical,8,Medical
+1,2022,3,Between 6 am and 6:59 am,45 to 54 years,Subway or elevated rail,30 to 59 minutes,195,"6,10,40,000",DUFFERIN AND BLOOR,01   Dry,18:45,2,,,,1,1,Mechanical,8,Medical
+1,2022,4,Between 6 am and 6:59 am,45 to 54 years,Subway or elevated rail,60 minutes and over,475,"8,34,30,000",EGLINTON WEST STATION,01   Dry,15:20,2,,,,1,3,Vision,8,Medical
+1,2022,5,Between 6 am and 6:59 am,55 to 64 years,Car and  truck or van,15 to 29 minutes,12010,"10,81,16,000",FINCH WEST STATION,02   Wet,13:35,2,,,,1,1,Vision,6,Medical
+1,2022,6,Between 6 am and 6:59 am,55 to 64 years,Subway or elevated rail,60 minutes and over,505,"14,03,45,000",DON MILLS AND FRESHMEA,01   Dry,00:00,2,,,,1,1,Cleaning,10,Medical
+1,2022,7,Between 8 am and 8:59 am,15 to 24 years,Car and  truck or van,15 to 29 minutes,4815,"16,58,78,000",SHEPPARD AND KEELE,01   Dry,14:00,2,,,,1,1,Road Blocked - NON-TTC Collision,15,Medical
+1,2022,8,Between 8 am and 8:59 am,25 to 34 years,Subway or elevated rail,60 minutes and over,835,"19,10,99,000",KEELE AND EGLINTON,06   Ice,11:30,1,,,,1,1,Mechanical,10,Medical
+1,2022,9,Between 8 am and 8:59 am,35 to 44 years,Car and  truck or van,15 to 29 minutes,11330,"22,75,11,000",SHEPPARD AND KEELE,01   Dry,10:45,2,,,,1,2,Road Blocked - NON-TTC Collision,705,Medical
+1,2022,10,Between 8 am and 8:59 am,35 to 44 years,Car and  truck or van,30 to 59 minutes,11630,"25,65,92,000",SHEPPARD AND KEELE,01   Dry,15:22,3,1,1,,1,1,Road Blocked - NON-TTC Collision,705,Medical
+1,2022,11,Between 8 am and 8:59 am,55 to 64 years,Car and  truck or van,60 minutes and over,2405,"28,61,94,000",U OF T SCARBOROUGH LOO,01   Dry,15:57,2,,,,2,1,Operations - Operator,21,Medical
+1,2022,12,Between 8 am and 8:59 am,55 to 64 years,Public transit,15 to 29 minutes,210,"31,87,33,000",SHEPPARD AND KEELE,01   Dry,16:07,2,,,,1,1,Road Blocked - NON-TTC Collision,666,Medical
+1,2023,1,Between 9 am and 11:59 am,15 to 24 years,Subway or elevated rail,60 minutes and over,215,"2,70,13,000",WILSON GARAGE,01   Dry,11:52,2,1,,,1,1,Mechanical,7,Medical
+1,2023,2,Between 9 am and 11:59 am,25 to 34 years,Car and  truck or van,15 to 29 minutes,11050,"5,52,85,000",SHEPPARD AND KEELE,01   Dry,12:30,2,,,,1,1,Road Blocked - NON-TTC Collision,666,Motor Vehicle Accident
+1,2023,3,Between 9 am and 11:59 am,25 to 34 years,Bicycle,30 to 59 minutes,170,"9,19,40,000",ISLINGTON AND DIXON,02   Wet,11:57,2,,,,1,1,Investigation,10,Medical
+1,2023,4,Between 9 am and 11:59 am,25 to 34 years,Bicycle,60 minutes and over,20,"12,12,24,000",KEELE AND SHEPPARD,01   Dry,13:44,2,,,,1,1,Road Blocked - NON-TTC Collision,844,Medical
+1,2023,5,Between 9 am and 11:59 am,55 to 64 years,Subway or elevated rail,60 minutes and over,195,"15,16,32,000",SCARBOROUGH CENTRE STA,09   Spilled liquid,13:58,1,,,,1,1,Cleaning,10,Medical
+1,2023,6,Between 12 pm and 4:59 am,15 to 24 years,Car and  truck or van,15 to 29 minutes,8410,"19,08,67,000",BROADVIEW STATION,04   Slush,12:30,1,,,,4,1,Mechanical,15,Medical
+1,2023,7,Between 12 pm and 4:59 am,15 to 24 years,Public transit,60 minutes and over,2900,"22,11,47,000",SCARBOROUGH CENTRE STA,01   Dry,14:43,1,,,,1,1,Operations - Operator,24,Medical
+1,2023,8,Between 12 pm and 4:59 am,15 to 24 years,Subway or elevated rail,15 to 29 minutes,130,"25,12,34,000",SCARBOROUGH CENTRE STA,02   Wet,15:07,2,,,,1,1,Operations - Operator,46,Medical
+1,2023,9,Between 12 pm and 4:59 am,25 to 34 years,Car and  truck or van,60 minutes and over,2135,"29,30,09,000",SCARBOROUGH CENTRE STA,02   Wet,14:30,2,,,,1,1,Cleaning,10,Medical
+1,2023,10,Between 12 pm and 4:59 am,25 to 34 years,Public transit,15 to 29 minutes,1015,"32,55,62,000",PIONEER VILLAGE STATIO,02   Wet,15:30,2,,,,1,1,Mechanical,5,Medical
+1,2023,11,Between 12 pm and 4:59 am,55 to 64 years,Subway or elevated rail,60 minutes and over,545,"35,86,06,000",MORNINGSIDE AND FINCH,02   Wet,15:45,2,,,,1,1,Cleaning,10,Medical
+1,2023,12,Between 5 am and 5:59 am,15 to 24 years,Public transit,60 minutes and over,440,"39,63,31,000",FINCH AND ARROW,02   Wet,15:35,2,,,,1,1,Mechanical,6,Emergency Transfer
+7,2021,1,Between 6 am and 6:59 am,15 to 24 years,Car and  truck or van,15 to 29 minutes,2360,,15XX MAIN STMount Pleasant,01   Dry,14:53,2,,,,,,Emergency Services,20,Medical
+7,2021,2,Between 6 am and 6:59 am,15 to 24 years,Car and  truck or van,30 to 59 minutes,2395,,17XX BLOCK E BROADWAY AVEKensington-Cedar Cottage,01   Dry,15:20,2,,,,,,Mechanical,12,Medical
+7,2021,3,Between 6 am and 6:59 am,15 to 24 years,Subway or elevated rail,60 minutes and over,110,,22XX MARLIN QUAYVictoria-Fraserview,01   Dry,16:00,2,,,,,,Mechanical,22,Medical
+7,2021,4,Between 6 am and 6:59 am,15 to 24 years,Bicycle,15 to 29 minutes,45,,2XX UNION STStrathcona,01   Dry,16:16,2,,,,,,Emergency Services,15,Medical
+7,2021,5,Between 6 am and 6:59 am,25 to 34 years,Car and  truck or van,60 minutes and over,1595,,36XX BLOCK FOSTER AVERenfrew-Collingwood,01   Dry,17:11,2,,,,,,Vision,2,Medical
+7,2021,6,Between 6 am and 6:59 am,25 to 34 years,Public transit,15 to 29 minutes,430,,3XX BLOCK W CORDOVA STCentral Business District,01   Dry,00:00,1,,,,,,Security,12,Medical
+7,2021,7,Between 6 am and 6:59 am,25 to 34 years,Subway or elevated rail,60 minutes and over,265,,42XX NAUTILUS CLSWest Point Grey,02   Wet,09:00,2,,,,,,Vision,42,Medical
+7,2021,8,Between 6 am and 6:59 am,35 to 44 years,Car and  truck or van,15 to 29 minutes,5730,,51XX BLOCK CAMBIE STRiley Park,09   Spilled liquid,06:57,1,,,,,,Security,11,Medical
+7,2021,9,Between 6 am and 6:59 am,55 to 64 years,Subway or elevated rail,60 minutes and over,120,,56XX BLOCK STAMFORD STRenfrew-Collingwood,06   Ice,10:32,2,,,,,,Operations - Operator,20,Medical
+7,2021,10,Between 8 am and 8:59 am,15 to 24 years,Car and  truck or van,60 minutes and over,265,,5XX E KENT AVE SSunset,01   Dry,10:11,4,,,,,,Investigation,22,Medical
+7,2021,11,Between 8 am and 8:59 am,15 to 24 years,Public transit,15 to 29 minutes,365,,8XX BLOCK KINGSWAY AVEKensington-Cedar Cottage,09   Spilled liquid,07:15,2,,,,,,Mechanical,33,Medical
+7,2021,12,Between 8 am and 8:59 am,15 to 24 years,Public transit,30 to 59 minutes,645,,E 41ST AVE / RUPERT STKillarney,01   Dry,16:00,2,,,,,,Mechanical,12,Medical
+7,2022,1,Between 8 am and 8:59 am,15 to 24 years,Subway or elevated rail,60 minutes and over,115,,13XX BEACH AVEWest End,09   Spilled liquid,08:37,2,,,,,,Operations - Operator,7,Medical
+7,2022,2,Between 8 am and 8:59 am,15 to 24 years,Bicycle,30 to 59 minutes,35,,16XX BLOCK E 2ND AVEGrandview-Woodland,06   Ice,08:47,3,,,,,,Mechanical,3,Medical
+7,2022,3,Between 8 am and 8:59 am,25 to 34 years,Car and  truck or van,15 to 29 minutes,6660,,20XX BLOCK W 4TH AVEKitsilano,06   Ice,18:00,1,,,,,,Mechanical,6,Medical
+7,2022,4,Between 8 am and 8:59 am,25 to 34 years,Subway or elevated rail,60 minutes and over,215,,20XX VENABLES STGrandview-Woodland,01   Dry,08:55,2,,,,,,Vision,8,Medical
+7,2022,5,Between 8 am and 8:59 am,35 to 44 years,Car and  truck or van,15 to 29 minutes,6650,,29XX BLOCK E PENDER STHastings-Sunrise,09   Spilled liquid,08:25,2,,,,,,Vision,6,Medical
+7,2022,6,Between 8 am and 8:59 am,55 to 64 years,Public transit,15 to 29 minutes,170,,2XX BLOCK POWELL STStrathcona,09   Spilled liquid,09:19,2,,,,,,Cleaning,10,Medical
+7,2022,7,Between 8 am and 8:59 am,55 to 64 years,Public transit,30 to 59 minutes,285,,3XX BLOCK E HASTINGS STStrathcona,01   Dry,09:20,1,,,,,,Road Blocked  Collision,15,Medical
+7,2022,8,Between 9 am and 11:59 am,45 to 54 years,Subway or elevated rail,30 to 59 minutes,125,,76XX BLOCK OAK STMarpole,09   Spilled liquid,07:40,1,,,,,,Mechanical,10,Medical
+7,2022,9,Between 9 am and 11:59 am,55 to 64 years,Car and  truck or van,60 minutes and over,620,,7XX NATIONAL AVEStrathcona,06   Ice,10:00,2,,,,,,Road Blocked  Collision,345,Medical
+7,2022,10,Between 9 am and 11:59 am,55 to 64 years,Public transit,15 to 29 minutes,210,,89XX BLOCK MAIN STSunset,09   Spilled liquid,10:02,1,,,,,,Road Blocked  Collision,567,Medical
+7,2022,11,Between 9 am and 11:59 am,55 to 64 years,Subway or elevated rail,60 minutes and over,45,,8XX BLOCK GRANVILLE STCentral Business District,01   Dry,17:10,3,,,,,,Operations - Operator,21,Medical
+7,2022,12,Between 12 pm and 4:59 am,15 to 24 years,Car and  truck or van,60 minutes and over,310,,CAMBIE ST / W 64TH AVEMarpole,09   Spilled liquid,10:45,2,,,,,,Road Blocked  Collision,332,Medical
+7,2023,1,Between 12 pm and 4:59 am,15 to 24 years,Public transit,15 to 29 minutes,1215,,16XX BLOCK E 41ST AVEKensington-Cedar Cottage,02   Wet,17:32,2,2,,,,,Mechanical,7,Medical
+7,2023,2,Between 12 pm and 4:59 am,15 to 24 years,Subway or elevated rail,60 minutes and over,280,,2XX E GEORGIA STStrathcona,02   Wet,18:00,2,,,,,,Road Blocked  Collision,122,Medical
+7,2023,3,Between 12 pm and 4:59 am,15 to 24 years,Bicycle,60 minutes and over,15,,31XX BLOCK KINGSWAY AVERenfrew-Collingwood,04   Slush,17:15,2,,,,,,Investigation,10,Medical
+7,2023,4,Between 12 pm and 4:59 am,25 to 34 years,Car and  truck or van,60 minutes and over,535,,6XX E HASTINGS STStrathcona,04   Slush,20:30,2,,,,,,Road Blocked  Collision,844,Medical
+7,2023,5,Between 12 pm and 4:59 am,25 to 34 years,Public transit,15 to 29 minutes,645,,BRAEBURN ST / ARGYLE DRVictoria-Fraserview,09   Spilled liquid,20:40,2,,,,,,Cleaning,12,Medical
+7,2023,6,Between 12 pm and 4:59 am,25 to 34 years,Subway or elevated rail,60 minutes and over,235,,BURRARD ST / W GEORGIA STWest End,09   Spilled liquid,21:19,2,,,,,,Mechanical,15,Medical
+7,2023,7,Between 12 pm and 4:59 am,35 to 44 years,Car and  truck or van,15 to 29 minutes,3935,,COLUMBIA ST / E HASTINGS STCentral Business District,02   Wet,22:29,2,,,,,,Operations - Operator,24,Medical
+7,2023,8,Between 12 pm and 4:59 am,35 to 44 years,Public transit,60 minutes and over,415,,E 12TH AVE / MAIN STMount Pleasant,04   Slush,03:18,1,,,,,,Operations - Operator,46,Emergency Transfer
+7,2023,9,Between 12 pm and 4:59 am,35 to 44 years,Subway or elevated rail,15 to 29 minutes,55,,E 1ST AVE / WOODLAND DRGrandview-Woodland,04   Slush,06:20,2,,,,,,Cleaning,10,Medical
+7,2023,10,Between 12 pm and 4:59 am,45 to 54 years,Car and  truck or van,30 to 59 minutes,3490,,E 57TH AVE / KNIGHT STSunset,01   Dry,08:10,2,,,,,,Mechanical,5,Medical
+7,2023,11,Between 12 pm and 4:59 am,55 to 64 years,Subway or elevated rail,60 minutes and over,75,,E 6TH AVE / NOOTKA STHastings-Sunrise,01   Dry,14:10,2,,,,,,Cleaning,10,Medical
+7,2023,12,Between 5 am and 5:59 am,15 to 24 years,Public transit,30 to 44 minutes,145,,GRANVILLE ST / W KING EDWARD AVEShaughnessy,05   Packed snow,08:27,1,1,1,,,,Mechanical,6,Medical
+9,2021,1,Between 6 am and 6:59 am,15 to 24 years,Car and  truck or van,15 to 29 minutes,1370,," 322 Winnipeg St, Winnipeg, Manitoba, R3C 1R4",02   Wet,11:40,2,,,,1,1,Traffic Accident,8,Medical
+9,2021,2,Between 6 am and 6:59 am,15 to 24 years,Bicycle,30 to 59 minutes,10,," 456 Manitoba Dr, Winnipeg, Manitoba, R2W 3R6",02   Wet,11:00,2,,,,1,1,Medical Emergency,15,Emergency Transfer
+9,2021,3,Between 6 am and 6:59 am,25 to 34 years,Car and  truck or van,60 minutes and over,315,," 789 Albert St, Winnipeg, Manitoba, R3B 1G5",02   Wet,16:30,2,,,,1,1,Weather Conditions,6,Medical
+9,2021,4,Between 6 am and 6:59 am,25 to 34 years,Public transit,60 minutes and over,125,," 321 Victoria Ave, Winnipeg, Manitoba, R2C 1S9",01   Dry,12:52,2,,,,1,1,Road Construction,12,Medical
+9,2021,5,Between 6 am and 6:59 am,25 to 34 years,Bicycle,15 to 29 minutes,35,," 654 Broad St, Winnipeg, Manitoba, R3B 2E4",02   Wet,13:35,2,1,1,,1,2,Police Activity,9,Medical
+9,2021,6,Between 6 am and 6:59 am,35 to 44 years,Car and  truck or van,60 minutes and over,320,," 987 Dewdney Ave, Winnipeg, Manitoba, R3T 0B4",02   Wet,12:48,2,,,,1,1,Mechanical Issue,20,Medical
+9,2021,7,Between 6 am and 6:59 am,35 to 44 years,Public transit,15 to 29 minutes,95,," 135 7th Ave, Winnipeg, Manitoba, R3B 2P2",02   Wet,12:45,2,,,,1,1,Public Event,18,Medical
+9,2021,8,Between 6 am and 6:59 am,45 to 54 years,Car and  truck or van,60 minutes and over,150,," 246 13th Ave, Winnipeg, Manitoba, R2C 1R7",02   Wet,14:12,2,,,,1,1,Vehicle Breakdown,7,Medical
+9,2021,9,Between 6 am and 6:59 am,45 to 54 years,Public transit,15 to 29 minutes,80,," 369 Elphinstone St, Winnipeg, Manitoba, R3G 2T5",02   Wet,09:03,2,,,,1,2,Pedestrian Incident,11,Medical
+9,2021,10,Between 8 am and 8:59 am,15 to 24 years,Public transit,15 to 29 minutes,105,," 147 McCarthy Blvd, Winnipeg, Manitoba, R2V 1A1",01   Dry,00:00,1,,,,1,2,Traffic Signal Failure,14,Medical
+9,2021,11,Between 8 am and 8:59 am,15 to 24 years,Public transit,60 minutes and over,55,," 258 Pasqua St, Winnipeg, Manitoba, R2C 2Z2",01   Dry,15:20,2,,,,1,1,Fire Emergency,25,Medical
+9,2021,12,Between 8 am and 8:59 am,25 to 34 years,Car and  truck or van,15 to 29 minutes,2970,," 369 Rae St, Winnipeg, Manitoba, R2W 3P9",02   Wet,13:45,2,,,,1,2,Flooding,10,Medical
+9,2022,1,Between 8 am and 8:59 am,55 to 64 years,Public transit,30 to 59 minutes,50,," 159 McIntyre St, Winnipeg, Manitoba, R2X 2R3",09   Spilled liquid,14:43,2,1,1,,2,2,Debris on Road,7,Medical
+9,2022,2,Between 9 am and 11:59 am,35 to 44 years,Car and  truck or van,60 minutes and over,75,," 753 Athol St, Winnipeg, Manitoba, R3G 3N4",06   Ice,14:46,2,1,1,,1,2,Utility Work,16,Medical
+9,2022,3,Between 9 am and 11:59 am,35 to 44 years,Public transit,15 to 29 minutes,65,," 951 Retallack St, Winnipeg, Manitoba, R3C 1S5",04   Slush,14:55,2,,,,1,1,Protest,22,Medical
+9,2022,4,Between 9 am and 11:59 am,35 to 44 years,Public transit,30 to 59 minutes,65,," 1621 Pasqua St, Winnipeg, Manitoba, R2C 2Z2",01   Dry,15:02,2,,,,1,2,Animal on Road,13,Medical
+9,2022,5,Between 9 am and 11:59 am,35 to 44 years,Public transit,60 minutes and over,30,," 1722 Dewdney Ave, Winnipeg, Manitoba, R3T 0B4",09   Spilled liquid,18:35,2,,,,1,1,Traffic Light Outage,40,Medical
+9,2022,6,Between 9 am and 11:59 am,45 to 54 years,Car and  truck or van,15 to 29 minutes,1065,," 1833 Albert St, Winnipeg, Manitoba, R3B 2J5",09   Spilled liquid,18:30,2,,,,1,2,Sporting Event,30,Medical
+9,2022,7,Between 9 am and 11:59 am,45 to 54 years,Public transit,60 minutes and over,45,," 1944 Broad St, Winnipeg, Manitoba, R3B 2E4",09   Spilled liquid,18:20,2,,,,1,2,Road Closure,35,Medical
+9,2022,8,Between 12 pm and 4:59 am,15 to 24 years,Public transit,60 minutes and over,270,," 2055 Victoria Ave, Winnipeg, Manitoba, R2C 1S9",09   Spilled liquid,19:00,2,,,,2,2,Hazardous Materials,11,Medical
+9,2022,9,Between 12 pm and 4:59 am,25 to 34 years,Car and  truck or van,15 to 29 minutes,2710,," 2166 7th Ave, Winnipeg, Manitoba, R3B 2P2",04   Slush,17:45,2,,,,1,1,Bridge Maintenance,19,Medical
+9,2022,10,Between 12 pm and 4:59 am,25 to 34 years,Car and  truck or van,30 to 59 minutes,1140,," 2277 13th Ave, Winnipeg, Manitoba, R2C 1R7",09   Spilled liquid,19:09,2,,,,1,2,Fallen Tree,16,Medical
+9,2022,11,Between 12 pm and 4:59 am,25 to 34 years,Car and  truck or van,60 minutes and over,205,," 2388 Elphinstone St, Winnipeg, Manitoba, R3G 2T5",05   Packed snow,19:14,2,2,,,1,2,Power Outage,8,Medical
+9,2022,12,Between 12 pm and 4:59 am,25 to 34 years,Public transit,15 to 29 minutes,185,," 2499 McCarthy Blvd, Winnipeg, Manitoba, R2V 1A1",09   Spilled liquid,20:00,1,,,,1,2,Construction Debris,6,Medical
+9,2023,1,Between 12 pm and 4:59 am,25 to 34 years,Public transit,30 to 59 minutes,185,," 2610 Rae St, Winnipeg, Manitoba, R2W 3P9",01   Dry,00:00,1,,,,1,2,Train Crossing Blocked,50,Motor Vehicle Accident
+9,2023,2,Between 12 pm and 4:59 am,25 to 34 years,Public transit,60 minutes and over,125,," 2721 McIntyre St, Winnipeg, Manitoba, R2X 2R3",01   Dry,12:03,2,,,,1,2,Bus Breakdown,15,Motor Vehicle Accident
+9,2023,3,Between 12 pm and 4:59 am,35 to 44 years,Car and  truck or van,15 to 29 minutes,2450,," 2832 Athol St, Winnipeg, Manitoba, R3G 3N4",09   Spilled liquid,12:30,2,,,,1,2,Parade,9,Medical
+9,2023,4,Between 12 pm and 4:59 am,35 to 44 years,Car and  truck or van,30 to 59 minutes,1205,," 2943 Retallack St, Winnipeg, Manitoba, R3C 1S5",01   Dry,14:45,2,,,,1,2,Fallen Sign,7,Medical
+9,2023,5,Between 12 pm and 4:59 am,35 to 44 years,Car and  truck or van,60 minutes and over,205,," 3054 Winnipeg St, Winnipeg, Manitoba, R3C 1R4",01   Dry,11:40,2,,,,1,2,Flooding,12,Medical
+9,2023,6,Between 12 pm and 4:59 am,35 to 44 years,Public transit,15 to 29 minutes,115,," 3165 Manitoba Dr, Winnipeg, Manitoba, R2W 3R6",01   Dry,13:50,2,,,,1,2,Gas Leak,14,Medical
+9,2023,7,Between 12 pm and 4:59 am,35 to 44 years,Public transit,30 to 59 minutes,155,," 3276 Albert St, Winnipeg, Manitoba, R3B 1G5",01   Dry,17:36,2,1,,,1,2,Vandalism,20,Medical
+9,2023,8,Between 12 pm and 4:59 am,55 to 64 years,Public transit,30 to 59 minutes,85,," 3387 Victoria Ave, Winnipeg, Manitoba, R2C 1S9",01   Dry,13:00,1,1,,,1,2,Special Event,26,Medical
+9,2023,9,Between 12 pm and 4:59 am,55 to 64 years,Public transit,60 minutes and over,65,," 3498 Broad St, Winnipeg, Manitoba, R3B 2E4",09   Spilled liquid,00:00,1,,,,1,2,Sinkhole,45,Medical
+9,2023,10,Between 12 pm and 4:59 am,55 to 64 years,Bicycle,15 to 29 minutes,25,," 3609 Dewdney Ave, Winnipeg, Manitoba, R3T 0B4",99   Other,18:40,2,,,,1,2,Traffic Light Malfunction,10,Medical
+9,2023,11,Between 12 pm and 4:59 am,55 to 64 years,Bicycle,30 to 59 minutes,20,," 3720 7th Ave, Winnipeg, Manitoba, R3B 2P2",05   Packed snow,18:25,2,,,,1,2,Suspicious Package,21,Medical
+9,2023,12,Between 5 am and 5:59 am,15 to 24 years,Public transit,60 minutes and over,30,," 3831 13th Ave, Winnipeg, Manitoba, R2C 1R7",04   Slush,14:00,1,,,,1,2,Road Blocked Collision,50,

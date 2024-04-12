@@ -1,0 +1,117 @@
+-----1. Getting the recall number, make name and model name of vehicles which affected and recalled in the year 2008 
+ 
+Select v."Recall_Number",v."Make_Name",v."Model_Name"
+From "Project Work"."Vehicle_Details" v
+Inner Join "Project Work"."Recall_Details" r
+ON v."Vehicle_ID" =r. "Vehicle_ID"
+Where r."Year" = 2008;
+
+-----2. Find a category with lowest number of recalls
+
+Select v."Category"
+From "Project Work"."Vehicle_Details" v
+Inner Join "Project Work"."Recall_Details" r
+ON v."Vehicle_ID" = r."Vehicle_ID"
+Group by v."Category"
+Order by Count(r."Recall_Number")
+Limit 1;
+
+-----3. Find the details of vehicles which are from RV trailer category
+
+Select "Vehicle_ID","Recall_Number","Category","Make_Name"
+From "Project Work"."Vehicle_Details"
+where "Category" = 'RV Trailer';
+
+-----4.List all vehicles with updates having category for Minivan
+
+Select r."Recall_Number",r."Year",r."Vehicle_ID",r."Location" ,r."Recall_Date"
+From "Project Work"."Recall_Details" r
+Inner join "Project Work"."Vehicle_Details" v
+on v."Vehicle_ID" = r."Vehicle_ID"
+Inner join "Project Work"."Updates" u
+on r."Recall_Number"= u."Recall_Number"
+where v."Category" = 'Minivan';
+
+
+-----5.Retrieve the information about the vehicles recalls and there lastest update and also order it by recall date
+
+Select r."Recall_Number",r."Vehicle_ID" , r."Recall_Date", u."Last_Update" , u."Notification"
+From "Project Work"."Recall_Details" r
+Left join "Project Work"."Updates" u
+on r."Recall_Number" = u."Recall_Number"
+Order by r."Recall_Date"
+
+
+-----6.List the latest recall details for every vehicle present in the list with vehicle details and recall details
+
+With CTE as 
+( select "Vehicle_ID" , MAX("Recall_Date") as Latest_Recall_Date
+From "Project Work"."Recall_Details"
+Group by "Vehicle_ID")
+Select v."Make_Name" , v."Model_Name" , r."Recall_Number", r."Recall_Date"
+From CTE ce
+Inner join "Project Work"."Recall_Details" r 
+ON ce."Vehicle_ID" = r."Vehicle_ID" and ce.Latest_Recall_Date = r."Recall_Date"
+Inner join "Project Work"."Vehicle_Details" v
+ON ce."Vehicle_ID" = v."Vehicle_ID";
+
+
+-----7.Find the structure recalls in KINGS COUNTY
+
+Select r."Recall_Number" ,r."Year" , r."Vehicle_ID" , r."Location" , r."Recall_Date"
+From "Project Work"."Recall_Details" r
+Inner join "Project Work"."System_Affected" s
+ON r."Vehicle_ID" = s."Vehicle_ID"
+where s."System_Type" = 'Structure' and r."Location" = 'KINGS COUNTY';
+
+-----8.Get the details of the vehicles manufactured by HYUNDAI
+
+Select "Vehicle_ID","Recall_Number","Category","Make_Name","Model_Name"
+From "Project Work"."Vehicle_Details"
+Where "Make_Name" = 'HYUNDAI'
+
+-----9.List the comments on each vehicle with its Make_Name
+
+Select v."Vehicle_ID", v."Make_Name" , s."Comment"
+From "Project Work"."Vehicle_Details" v
+Inner Join "Project Work"."System_Affected" s
+ON v."Vehicle_ID" = s."Vehicle_ID"
+Where s."System_Type" = 'Lights And Instruments'; 
+
+
+-----10. List the brakes affected system and there notification with there recall number
+
+Select u."Recall_Number" , s."System_Type" , u."Notification"
+From "Project Work"."Updates" u
+Inner Join "Project Work"."Vehicle_Details" v
+ON u."Recall_Number" = v."Recall_Number"
+Inner Join "Project Work"."System_Affected" s
+ON v."Vehicle_ID" = s."Vehicle_ID"
+Where s."System_Type" = 'Brakes'
+Order by u."Recall_Number"
+
+
+
+
+Create view  Vehicle_Recall_Details as
+Select v."Vehicle_ID" , v."Make_Name", v."Model_Name" , r."Recall_Date"
+From "Project Work"."Vehicle_Details" v
+Inner Join "Project Work"."Recall_Details" r
+ON v."Vehicle_ID" = r."Vehicle_ID";
+
+
+
+Create view  MakeN_System_Details as
+Select v."Make_Name" , s."System_ID",s."Vehicle_ID",s."System_Type",s."Comment"
+From "Project Work"."Vehicle_Details" v
+Inner Join "Project Work"."System_Affected" s
+ON v."Vehicle_ID" = s."Vehicle_ID"
+
+
+
+
+
+
+
+
+

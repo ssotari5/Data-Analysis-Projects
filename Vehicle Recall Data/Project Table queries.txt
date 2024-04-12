@@ -1,0 +1,103 @@
+
+URL of the data source - https://open.canada.ca/data/en/dataset/1ec92326-47ef-4110-b7ca-959fab03f96d/resource/c7472dec-bef4-4924-837e-51b9333c2082
+
+
+
+-- Table: Project Work.Vehicle_Details
+
+-- DROP TABLE IF EXISTS "Project Work"."Vehicle_Details";
+
+CREATE TABLE IF NOT EXISTS "Project Work"."Vehicle_Details"
+(
+    "Vehicle_ID" bigint NOT NULL,
+    "Recall_Number" bigint,
+    "Category" character varying(50) COLLATE pg_catalog."default",
+    "Make_Name" character varying(50) COLLATE pg_catalog."default",
+    "Model_Name" character varying(50) COLLATE pg_catalog."default",
+    CONSTRAINT "Vehicle_Details_pkey" PRIMARY KEY ("Vehicle_ID")
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS "Project Work"."Vehicle_Details"
+    OWNER to postgres;
+
+
+
+
+
+-- Table: Project Work.Recall_Details
+
+-- DROP TABLE IF EXISTS "Project Work"."Recall_Details";
+
+CREATE TABLE IF NOT EXISTS "Project Work"."Recall_Details"
+(
+    "Recall_Number" bigint NOT NULL,
+    "Year" bigint,
+    "Vehicle_ID" bigint,
+    "Location" character varying(100) COLLATE pg_catalog."default",
+    CONSTRAINT "Recall_Details_pkey" PRIMARY KEY ("Recall_Number"),
+    CONSTRAINT "Vehicle_ID" FOREIGN KEY ("Vehicle_ID")
+        REFERENCES "Project Work"."Vehicle_Details" ("Vehicle_ID") MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS "Project Work"."Recall_Details"
+    OWNER to postgres;
+
+
+
+
+
+
+-- Table: Project Work.System_Affected
+
+-- DROP TABLE IF EXISTS "Project Work"."System_Affected";
+
+CREATE TABLE IF NOT EXISTS "Project Work"."System_Affected"
+(
+    "System_ID" character varying(50) COLLATE pg_catalog."default" NOT NULL,
+    "Vehicle_ID" bigint,
+    "System_Type" character varying(50) COLLATE pg_catalog."default",
+    "Comment" character varying(500) COLLATE pg_catalog."default",
+    CONSTRAINT "System_Affected_pkey" PRIMARY KEY ("System_ID"),
+    CONSTRAINT "Vehicle_ID" FOREIGN KEY ("Vehicle_ID")
+        REFERENCES "Project Work"."Vehicle_Details" ("Vehicle_ID") MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS "Project Work"."System_Affected"
+    OWNER to postgres;
+
+
+
+
+
+-- Table: Project Work.Updates
+
+-- DROP TABLE IF EXISTS "Project Work"."Updates";
+
+CREATE TABLE IF NOT EXISTS "Project Work"."Updates"
+(
+    "Update_ID" bigint NOT NULL,
+    "Recall_Number" bigint,
+    "Year" bigint,
+    "Last_Update" date,
+    "Notification" character varying(100) COLLATE pg_catalog."default",
+    CONSTRAINT "Updates_pkey" PRIMARY KEY ("Update_ID"),
+    CONSTRAINT "Recall_Number" FOREIGN KEY ("Recall_Number")
+        REFERENCES "Project Work"."Recall_Details" ("Recall_Number") MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS "Project Work"."Updates"
+    OWNER to postgres;
